@@ -1,0 +1,117 @@
+// Number of object-id's
+11
+
+// List object-id's with types (0=solid, 1=background, 2=sheet, 3=wire, 4=portwire, 5=portelement, 6=coil, 7=lumpedelement, 8=lumpedwire, 9=current path, 10=voltage path):
+component1:new_PDMS
+0
+component1:pvc pipe
+0
+component1:hole_puncher
+0
+air_0:brick
+1
+component1:Mold_L_Out
+0
+component1:Microstrip_horizontal
+0
+component1:needle_2
+0
+component1:Microstrip_vertical
+0
+component1:GND
+0
+component1:needle_1
+0
+1
+5
+
+// Number of 0D groups with object-id
+0
+
+// 0D Groupd-id, object-id
+
+// Number of 1D groups with object-id
+1
+
+// 1D Groupd-id, object-id
+1 11
+
+// Number of 2D groups with object-id
+59
+
+// 2D Groupd-id, object-id from, object-id to
+1 4 -1 -1 -1 -1 -1
+2 4 -1 -1 -1 -1 -1
+3 4 -1 -1 -1 -1 -1
+4 4 -1 -1 -1 -1 -1
+5 4 -1 -1 -1 -1 -1
+6 4 -1 -1 -1 -1 -1
+7 10 3 -1 -1 -1 -1
+8 10 3 -1 -1 -1 -1
+9 10 1 -1 -1 -1 -1
+10 9 4 -1 -1 -1 -1
+11 9 3 -1 -1 -1 -1
+12 9 4 -1 -1 -1 -1
+13 9 4 -1 -1 -1 -1
+14 9 4 -1 -1 -1 -1
+15 9 3 -1 -1 -1 -1
+16 9 1 -1 -1 -1 -1
+17 4 1 -1 -1 -1 -1
+18 4 1 -1 -1 -1 -1
+19 3 1 -1 -1 -1 -1
+20 4 1 -1 -1 -1 -1
+21 4 1 -1 -1 -1 -1
+22 4 1 -1 -1 -1 -1
+23 3 1 -1 -1 -1 -1
+24 10 1 -1 -1 -1 -1
+25 9 1 -1 -1 -1 -1
+26 4 1 -1 -1 -1 -1
+27 4 1 -1 -1 -1 -1
+28 4 1 -1 -1 -1 -1
+29 4 1 -1 -1 -1 -1
+30 2 1 -1 -1 -1 -1
+31 4 2 -1 -1 -1 -1
+32 4 2 -1 -1 -1 -1
+33 4 2 -1 -1 -1 -1
+34 4 2 -1 -1 -1 -1
+35 8 7 -1 -1 -1 -1
+36 8 7 -1 -1 -1 -1
+37 8 6 -1 -1 -1 -1
+38 8 1 -1 -1 -1 -1
+39 6 1 -1 -1 -1 -1
+40 8 1 -1 -1 -1 -1
+41 7 1 -1 -1 -1 -1
+42 8 1 -1 -1 -1 -1
+43 6 1 -1 -1 -1 -1
+44 6 1 -1 -1 -1 -1
+45 7 1 -1 -1 -1 -1
+46 6 1 -1 -1 -1 -1
+47 6 1 -1 -1 -1 -1
+48 6 1 -1 -1 -1 -1
+49 6 1 -1 -1 -1 -1
+50 8 1 -1 -1 -1 -1
+51 8 1 -1 -1 -1 -1
+52 5 1 -1 -1 -1 -1
+53 5 1 -1 -1 -1 -1
+54 5 1 -1 -1 -1 -1
+55 5 1 -1 -1 -1 -1
+56 5 1 -1 -1 -1 -1
+57 5 1 -1 -1 -1 -1
+58 5 1 -1 -1 -1 -1
+59 5 1 -1 -1 -1 -1
+
+// Number of 3D groups with object-id
+10
+
+// 3D Groupd-id, object-id
+1 1
+2 2
+3 3
+4 4
+5 5
+6 6
+7 7
+8 8
+9 9
+10 10
+

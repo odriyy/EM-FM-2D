@@ -1,0 +1,223 @@
+// Number 3D OBJECTS:
+// ^^^^^^^^^^^^^^^^^^
+11
+
+// Obj3D_ID, MediaCode (0=Iso3D,1=LossyIso3D,2=PEC,3=Aniso3D,4=LossyAniso3D,5=SurfaceImp)
+// ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+0 0
+>> Material name:
+Vacuum
+
+1 1
+>> Material name:
+PDMS
+
+2 1
+>> Material name:
+PVC
+
+3 0
+>> Material name:
+Vacuum
+
+4 0
+>> Material name:
+air_0
+
+5 5
+>> Material name:
+Galinstan
+
+6 5
+>> Material name:
+Galinstan
+
+7 5
+>> Material name:
+Galinstan
+
+8 5
+>> Material name:
+Galinstan
+
+9 5
+>> Material name:
+Galinstan
+
+10 5
+>> Material name:
+Galinstan
+
+// Number 2D OBJECTS:
+// ^^^^^^^^^^^^^^^^^^
+60
+
+// Obj2D_ID, BCCode (0=Reg,1=PEC,2=PMC,3=RHO,4=OHM,5=PORT,6=OPEN,7=EXPANDEDOPEN,8=PERIODIC,9=TANGENTIAL,10=NORMAL):
+// ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+0 0
+
+1 7
+
+2 7
+
+3 7
+
+4 7
+
+5 7
+
+6 7
+
+7 3
+Galinstan
+
+8 3
+Galinstan
+
+9 3
+Galinstan
+
+10 3
+Galinstan
+
+11 3
+Galinstan
+
+12 3
+Galinstan
+
+13 3
+Galinstan
+
+14 3
+Galinstan
+
+15 3
+Galinstan
+
+16 3
+Galinstan
+
+17 0
+
+18 0
+
+19 0
+
+20 0
+
+21 0
+
+22 0
+
+23 0
+
+24 3
+Galinstan
+
+25 3
+Galinstan
+
+26 0
+
+27 0
+
+28 0
+
+29 0
+
+30 0
+
+31 0
+
+32 0
+
+33 0
+
+34 0
+
+35 3
+Galinstan
+
+36 3
+Galinstan
+
+37 3
+Galinstan
+
+38 3
+Galinstan
+
+39 3
+Galinstan
+
+40 3
+Galinstan
+
+41 3
+Galinstan
+
+42 3
+Galinstan
+
+43 3
+Galinstan
+
+44 3
+Galinstan
+
+45 3
+Galinstan
+
+46 3
+Galinstan
+
+47 3
+Galinstan
+
+48 3
+Galinstan
+
+49 3
+Galinstan
+
+50 3
+Galinstan
+
+51 3
+Galinstan
+
+52 3
+Galinstan
+
+53 3
+Galinstan
+
+54 3
+Galinstan
+
+55 3
+Galinstan
+
+56 3
+Galinstan
+
+57 3
+Galinstan
+
+58 3
+Galinstan
+
+59 3
+Galinstan
+
+// Number 1D OBJECTS:
+// ^^^^^^^^^^^^^^^^^^
+2
+
+// Obj1D_ID, BCCode (0=Reg,1=PEC,2=PMC,3=PORT,4=Lumped):
+// ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+0 0
+1 3
+1
+

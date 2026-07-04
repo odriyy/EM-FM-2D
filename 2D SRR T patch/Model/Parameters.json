@@ -1,0 +1,181 @@
+{
+    "parameters": [
+        {
+            "descr": "PVC Pipe wall thickness",
+            "expr": "2",
+            "name": "t_wall",
+            "value": "2"
+        },
+        {
+            "descr": "PDMS width",
+            "expr": "30",
+            "name": "W_sub",
+            "value": "30"
+        },
+        {
+            "descr": "PDMS Thickness",
+            "expr": "2.8",
+            "name": "h_sub",
+            "value": "2.8"
+        },
+        {
+            "descr": "galinstan thickness",
+            "expr": "0.5",
+            "name": "t_metal",
+            "value": "0.5"
+        },
+        {
+            "descr": "sensor length",
+            "expr": "30",
+            "name": "L_sub",
+            "value": "30"
+        },
+        {
+            "descr": "outer diameter",
+            "expr": "25*t_wall",
+            "name": "pipe_OD",
+            "value": "50"
+        },
+        {
+            "descr": "CSRR ring radius",
+            "expr": "9.5",
+            "name": "r_SRR",
+            "value": "9.5"
+        },
+        {
+            "descr": "inner radius",
+            "expr": "pipe_Ro-4",
+            "name": "pipe_Ri",
+            "value": "16"
+        },
+        {
+            "descr": "ring/slot width",
+            "expr": "0.8",
+            "name": "w_channel",
+            "value": "0.8"
+        },
+        {
+            "descr": "split gap",
+            "expr": "0.8",
+            "name": "g_slot",
+            "value": "0.8"
+        },
+        {
+            "descr": "nutrient EC reference",
+            "expr": "0.5",
+            "name": "sigma_fluid",
+            "value": "0.5"
+        },
+        {
+            "expr": "20",
+            "name": "pipe_Ro",
+            "value": "20"
+        },
+        {
+            "expr": "1.36",
+            "name": "W_50",
+            "value": "1.36"
+        },
+        {
+            "expr": "12",
+            "name": "ct",
+            "value": "12"
+        },
+        {
+            "expr": "0.3",
+            "name": "cm",
+            "value": "0.3"
+        },
+        {
+            "expr": "0.01",
+            "name": "nutrient_solution",
+            "value": "0.01"
+        },
+        {
+            "expr": "0.4",
+            "name": "spacing",
+            "value": "0.4"
+        },
+        {
+            "expr": "12",
+            "name": "D_center",
+            "value": "12"
+        },
+        {
+            "expr": "r_SRR - w_channel - spacing",
+            "name": "r_SRR_in",
+            "value": "8.3"
+        },
+        {
+            "expr": "L_sub/2",
+            "name": "Z_mid",
+            "value": "15"
+        },
+        {
+            "expr": "0.35",
+            "name": "t_PDMS_microstrip",
+            "value": "0.35"
+        },
+        {
+            "expr": "0.1",
+            "name": "t_gnd",
+            "value": "0.1"
+        },
+        {
+            "expr": "0.1",
+            "name": "t_SRR",
+            "value": "0.1"
+        },
+        {
+            "expr": "0.1",
+            "name": "t_microstrip",
+            "value": "0.1"
+        },
+        {
+            "expr": "1",
+            "name": "h1",
+            "value": "1"
+        },
+        {
+            "expr": "0.5",
+            "name": "h3",
+            "value": "0.5"
+        },
+        {
+            "expr": "1",
+            "name": "h2",
+            "value": "1"
+        },
+        {
+            "descr": "microstrip vertical length",
+            "expr": "10",
+            "name": "L1",
+            "value": "10"
+        },
+        {
+            "descr": "microstrip \\vertical width",
+            "expr": "1.6",
+            "name": "L2",
+            "value": "1.6"
+        },
+        {
+            "descr": "horizontal length",
+            "expr": "16",
+            "name": "L4",
+            "value": "16"
+        },
+        {
+            "descr": "horizontal width",
+            "expr": "4",
+            "name": "L3",
+            "value": "4"
+        },
+        {
+            "descr": "last layer of pdms",
+            "expr": "0.2",
+            "name": "h4",
+            "value": "0.2"
+        }
+    ],
+    "version": 1
+}

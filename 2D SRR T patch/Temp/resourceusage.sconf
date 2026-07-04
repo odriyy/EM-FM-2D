@@ -1,0 +1,27 @@
+FeatureKeywords:string:modeler:history:header_not_parsed, modeler:model:anchorpoints, modeler:boolean:add, modeler:construction_info:object_names, modeler:picking:bwc:floppick, modeler:bending:acistools, modeler:load:fullloading, meshloading:problem_class_only, la:macromodel, la:macromodel:nmaxthreads:14, block:type:saved:MWSSCHEM, block:type:saved:CAP, block:type:saved:GND, solver:task:saved:spara, meshline:hex:check_after_loading:default, meshline:hex:handling_legacy:no, modeler:variables:rebuild, modeler:variables:fastrebuild, DELETERESULTS:PARAMETRIC, modeler:hidfile:history_expert, modeler:hidfile:unique_ids, modeler:hidfile:diagnostics, modeler:load:fastloading, DELETERESULTS:M0P0, mesh::background::boolean, mesh:workflow:nru, mesh:workflow:srf2vol, mesh:workflow:boolean, mesh:workflow:boolean:advanced, mesh:workflow:cad2srf, mesh:workflow:cadsurf, acceleration:cpu:6, acceleration:cpudevices:1, solver:hf:fd:task:1, monitor:resultfilemap:load, mesh:tet:adaptive:anisotropicedge, la:iterative, la:precond:pdss7, la:parallel_excitation:block, monitor:resultfilemap:save, solver:hf:fd:sweep:ctdauto, solver:hf:fd:samples:5, solver:hf:fd:sampling:linear, background:normal, boundary:expanded open:xmax, boundary:expanded open:xmin, boundary:expanded open:ymax, boundary:expanded open:ymin, boundary:expanded open:zmax, boundary:expanded open:zmin, boundary:open:ConvPML, lineqssolver:setting:acceleratedrestart, material:disp:eps, material:disp:modelnth, mesh:tet, mesh:tet:autocurvature, mesh:tet:curved, mesh:tet:curved:3, monitor:power:1d, solver:hf:fd, solver:hf:fd:generalpurpose:tet, solver:hf:fd:order:2, solver:hf:fd:portloss, source:discrete edge port:s-parameter, units:Capacitance:pF, units:Conductance:S, units:Current:A, units:Frequency:GHz, units:Inductance:nH, units:Length:mm, units:Resistance:Ohm, units:Temperature:degC, units:Time:ns, units:Voltage:V, solver:pp:sparameter:sensitivityanalysis, solver:pp:sparameter:basicbranch, solver:pp:sparameter:unnorm, solver:pp:sparameter:updatebalance, modeler:model:anchorpoints:saving, lineqssolver:setting:auto, lineqssolver:setting:treecotree, DELETERESULTS:M000, SMatrix:DSNBWC:16, mesh:size:wire_inherits_from_cell, material:SI:generalized model, material:SI:lossy metal, EXTENSION:solver-control:mesh-control:setup-via-input-data-struct, material:dispupdate:automatic:standard, mcalc:Workflow:Facets-QQ-GEX, mcalc:facets:qq, mcalc:facets:qq:PP, mcalc:facets:qq:PP:fb-multi-thread-22, mcalc:facets:qq:acceleration:multi-thread, mcalc:facets:qq:mesh-manager-ACIS:indexed, mcalc:fpba:facets:mat-attribute:background-material, mcalc:fpba:facets:mat-attribute:dispersive-mue, mcalc:fpba:facets:mat-attribute:normal, mcalc:fpba:facets:mat-attribute:pec, mcalc:fpba:facets:mat-attribute:surface-impedance, mcalc:fpba:facets:mat-attribute:vacuum, mcalc:fpba:facets:save, mcalc:fpba:facets:shape-attribute:background-shape, mcalc:fpba:facets:shape-attribute:boundary, mcalc:fpba:facets:shape-attribute:edge-element, mcalc:fpba:facets:shape-attribute:lump-shape, mcalc:fpba:facets:shape-attribute:solid, mcalc:fpba:facets:shape-attribute:wire, mcalc:mesher:automatic, mcalc:mode:facets, mcalc:port_analyzer:version_2, meshline:hex:new, mcalc:facets:qq:Model, mcalc:facets:qq:Model:fb-multi-thread-22, mcalc:fpba:facets:watertight-patches:none, mcalc:hex:cornercorrection:coco, mcalc:mcalc:gex:qqfacettergex, source:analytic field:undefiend, acceleration:cpu:bg:std, acceleration:uniblock, boundary:open:lossfree, fitd solver:signal sampling, material:kappa:eps, mesh:hex, mesh:hex:corner correction, mesh:hex:fpba, solver:hf:td, solver:hf:td:adjust sparameter, source:discrete edge port:gap, source:discrete port:active, mcalc:fpba:facets:mat-attribute:rho, mcalc:fpba:facets:shape-attribute:face-center-gap, mcalc:fpba:facets:shape-attribute:face-element, mcalc:fpba:facets:shape-attribute:face-port, mcalc:fpba:facets:shape-attribute:sheet, material:rho, source:discrete face port:gap, source:discrete face port:s-parameter, solver:pp:sparameter:renorm, solver:pp:sparameter:ffbalance, solver:hf:fd:samples:9
+LastWorkflowState:string:tetmesh:success
+matrixcalc-acis-facets/MaxResidentSizeMiB:int:22
+matrixcalc-acis-facets/Runtime:double:0.0519872
+matrixcalc-mcalc-prepare/MaxResidentSizeMiB:int:22
+matrixcalc-mcalc-prepare/Runtime:double:0.00709319
+matrixcalc-mode-facets-rendering/MaxResidentSizeMiB:int:22
+matrixcalc-mode-facets-rendering/Runtime:double:0.062592
+matrixcalc/MaxResidentSizeMiB:int:30
+paracontrol/MaxResidentSizeMiB:int:9
+solver_hf_td/InitialFreePhysicalInMB:int:4670
+solver_hf_td/MaxResidentSizeInMB:int:30
+solver_hf_td/MaxResidentSizeMiB:int:10
+solver_hf_td/MinFreePhysicalInMB:int:4585
+solver_hf_tet_fd/InitialFreePhysicalInMB:int:4181
+solver_hf_tet_fd/MaxResidentSizeInMB:int:866
+solver_hf_tet_fd/MaxResidentSizeMiB:int:803
+solver_hf_tet_fd/MinFreePhysicalInMB:int:3325
+solver_pp/InitialFreePhysicalInMB:int:4141
+solver_pp/MaxResidentSizeInMB:int:28
+solver_pp/MaxResidentSizeMiB:int:11
+solver_pp/MinFreePhysicalInMB:int:4140
+tetmesh/InitialFreePhysicalInMB:int:4175
+tetmesh/MaxResidentSizeInMB:int:94
+tetmesh/MaxResidentSizeMiB:int:5923
+tetmesh/MinFreePhysicalInMB:int:4131
+---

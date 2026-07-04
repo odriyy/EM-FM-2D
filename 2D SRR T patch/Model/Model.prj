@@ -1,0 +1,13 @@
+{
+   "Author": "audre",
+   "Comment": "",
+   "Last Problem Type": "High Frequency",
+   "Last Solver Type": "HF Frequency Domain",
+   "Last Solver Type Abb": "f",
+   "Mesh Cells": "56,577",
+   "Mesh Type": "Tetrahedral",
+   "Modeler Unique ID": "5:2d srr t patch.cst?18dde0ee44b9e0d21b3a445e00f5164b?104591:numberofparameters=27:port=1>mode=1>zre=50>zim=0:::h4?d_center?l1?l2?l3?l4?l_sub?w_50?w_sub?z_mid?g_slot?h1?h2?h3?h_sub?pipe_ri?pipe_ro?r_srr?r_srr_in?sigma_fluid?spacing?t_pdms_microstrip?t_srr?t_gnd?t_metal?t_microstrip?w_channel",
+   "ProjectVersion": "'# MWS Version: Version 2024.5 - Jun 14 2024 - ACIS 33.0.1 -",
+   "Results": "Frequency Domain: S-Parameter",
+   "Version": "3"
+}
