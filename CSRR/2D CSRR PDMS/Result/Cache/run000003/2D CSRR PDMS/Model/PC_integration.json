@@ -1,0 +1,64 @@
+{
+   "execution": {
+      "classname": "SMAPowerByEmagHPCFrameReduced",
+      "libname": "SMAPowerByEmagUI"
+   },
+   "inputVariables": [
+      {
+         "name": "pipe_Ri",
+         "type": "float",
+         "value": 12.5
+      },
+      {
+         "name": "L_sub",
+         "type": "float",
+         "value": 35.0
+      },
+      {
+         "name": "t_wall",
+         "type": "float",
+         "value": 2.0
+      },
+      {
+         "name": "W_sub",
+         "type": "float",
+         "value": 20.0
+      },
+      {
+         "name": "t_metal",
+         "type": "float",
+         "value": 0.02
+      },
+      {
+         "name": "h_sub",
+         "type": "float",
+         "value": 1.0
+      },
+      {
+         "name": "r_CSRR",
+         "type": "float",
+         "value": 4.45
+      },
+      {
+         "name": "w_channel",
+         "type": "float",
+         "value": 0.4
+      },
+      {
+         "name": "g_slot",
+         "type": "float",
+         "value": 0.3
+      },
+      {
+         "name": "W_50",
+         "type": "float",
+         "value": 2.0
+      },
+      {
+         "name": "Microstrip_PDMS",
+         "type": "float",
+         "value": 0.5
+      }
+   ],
+   "outputVariables": []
+}

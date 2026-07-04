@@ -1,0 +1,37 @@
+2026-07-02 21:04:23   Some of the upcoming parameter combinations were already performed previously and will be skipped.
+                      Potential changes in the result settings like Template Based Post Processing are not taken into account. The feature can be deactivated via "Parameter Sweep -> Options..."
+2026-07-02 21:04:23   ==========================================================================
+                      Sequence: Sequence 1
+                      ==========================================================================
+
+2026-07-02 21:04:23   --------------------------------------------------------------------------
+                      Parameter Values: 
+
+                         g_slot = 0.3
+                         r_CSRR = 4.45
+2026-07-02 21:04:25   
+                      Structure update: Successful [0 hours, 0 min., 1 sec.]
+2026-07-02 21:05:44              Solver: Successful [0 hours, 1 min., 19 sec.]
+2026-07-02 21:05:44   --------------------------------------------------------------------------
+                      Parameter Values: 
+
+                         g_slot = 0.3
+                         r_CSRR = 4.725
+2026-07-02 21:05:46   
+                      Structure update: Successful [0 hours, 0 min., 1 sec.]
+2026-07-02 21:07:15              Solver: Successful [0 hours, 1 min., 29 sec.]
+2026-07-02 21:07:15   --------------------------------------------------------------------------
+                      Parameter Values: 
+
+                         g_slot = 0.3
+                         r_CSRR = 5
+2026-07-02 21:07:18   
+                      Structure update: Successful [0 hours, 0 min., 2 sec.]
+2026-07-02 21:10:47             Solver: Aborted
+2026-07-02 21:10:47        Solver time: 0 hours, 3 min., 29 sec.
+2026-07-02 21:10:47   --------------------------------------------------------------------------
+2026-07-02 21:10:47   
+                      ==========================================================================
+                      Total structure update time: 0 hours, 0 min., 4 sec.
+                            Total evaluation time: 0 hours, 6 min., 17 sec.
+                      ==========================================================================

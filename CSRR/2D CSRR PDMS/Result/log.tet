@@ -1,0 +1,206 @@
+[21:50:09] -------- TetMesher Log --------
+[21:50:09] Build Number: 20240614; ID: 2024.5 Release from 2024-06-14 (change 1285309); Date: 2024-06-14; ACIS version: 33.0.1, SPAresabs & SPAresnor: 1e-06, 1e-10; Problem class: High Frequency
+[21:50:09] Temporary directory: "C:\Users\LOQ\Documents\CST Files\2D CSRR PDMS\Temp\1-temp.tet"
+[21:50:09] - Reading information
+[21:50:09] - Building single body
+[21:50:09] Found 535 faces.
+[21:50:09] Choosing Advanced Boolean Loop...
+[21:50:09] Volume Attributes enabled
+[21:50:09] Attaching Volume Attributes
+[21:50:09] Sorted out 81 special bodies.
+[21:50:09] Processing 8 entities.
+[21:50:09] Queue Size: 1
+[21:50:09] Combining solid component1:PDMS_microstrip and solid component1:inner_slot_ring (Pair #1 out of 4)
+[21:50:09] Combining solid component1:Microstrip_line and solid component1:slot_ring (Pair #2 out of 4)
+[21:50:09] Adding solid component1:GND to solid component1:PDMS (Pair #3 out of 4)
+[21:50:09] Adding solid component1:PVC_Pipe to solid component1:solid1 (Pair #4 out of 4)
+[21:50:09] Processing 4 entities.
+[21:50:09] Queue Size: 1
+[21:50:09] Adding Compound Body to Compound Body (Pair #1 out of 2)
+[21:50:11] Adding Compound Body to Compound Body (Pair #2 out of 2)
+[21:50:11] Processing 2 entities.
+[21:50:11] Queue Size: 1
+[21:50:11] Adding Compound Body to Compound Body (Pair #1 out of 1)
+[21:50:26] Exiting Boolean Unite Module.
+[21:50:26] Added Compound Body (ID: 274, 127, 181, 247, 154, 28, 234, 301) to model
+[21:50:26] Added background material (ID: 1) to model
+[21:50:26] Added background material (extended) (ID: 309) to model
+[21:50:26] Added background material (extended) (ID: 336) to model
+[21:50:26] Added background material (extended) (ID: 363) to model
+[21:50:26] Added background material (extended) (ID: 390) to model
+[21:50:26] Added background material (extended) (ID: 417) to model
+[21:50:26] Added background material (extended) (ID: 444) to model
+[21:50:26] Added background material (extended) (ID: 471) to model
+[21:50:26] Added background material (extended) (ID: 498) to model
+[21:50:26] Added background material (extended) (ID: 525) to model
+[21:50:26] Added background material (extended) (ID: 552) to model
+[21:50:26] Added background material (extended) (ID: 579) to model
+[21:50:26] Added background material (extended) (ID: 606) to model
+[21:50:26] Added background material (extended) (ID: 633) to model
+[21:50:26] Added background material (extended) (ID: 660) to model
+[21:50:26] Added background material (extended) (ID: 687) to model
+[21:50:26] Added background material (extended) (ID: 714) to model
+[21:50:26] Added background material (extended) (ID: 741) to model
+[21:50:26] Added background material (extended) (ID: 768) to model
+[21:50:26] Added background material (extended) (ID: 795) to model
+[21:50:26] Added background material (extended) (ID: 822) to model
+[21:50:26] Added background material (extended) (ID: 849) to model
+[21:50:26] Added background material (extended) (ID: 876) to model
+[21:50:26] Added background material (extended) (ID: 903) to model
+[21:50:26] Added background material (extended) (ID: 930) to model
+[21:50:26] Added background material (extended) (ID: 957) to model
+[21:50:26] Added background material (extended) (ID: 984) to model
+[21:50:26] Added background material (extended) (ID: 1011) to model
+[21:50:26] Added background material (extended) (ID: 1038) to model
+[21:50:26] Added background material (extended) (ID: 1065) to model
+[21:50:26] Added background material (extended) (ID: 1092) to model
+[21:50:26] Added background material (extended) (ID: 1119) to model
+[21:50:26] Added background material (extended) (ID: 1146) to model
+[21:50:26] Added background material (extended) (ID: 1173) to model
+[21:50:26] Added background material (extended) (ID: 1200) to model
+[21:50:26] Added background material (extended) (ID: 1227) to model
+[21:50:26] Added background material (extended) (ID: 1254) to model
+[21:50:26] Added background material (extended) (ID: 1281) to model
+[21:50:26] Added background material (extended) (ID: 1308) to model
+[21:50:26] Added background material (extended) (ID: 1335) to model
+[21:50:26] Added background material (extended) (ID: 1362) to model
+[21:50:26] Added background material (extended) (ID: 1389) to model
+[21:50:26] Added background material (extended) (ID: 1416) to model
+[21:50:26] Added background material (extended) (ID: 1443) to model
+[21:50:26] Added background material (extended) (ID: 1470) to model
+[21:50:26] Added background material (extended) (ID: 1497) to model
+[21:50:26] Added background material (extended) (ID: 1524) to model
+[21:50:27] Added background material (extended) (ID: 1551) to model
+[21:50:27] Added background material (extended) (ID: 1578) to model
+[21:50:27] Added background material (extended) (ID: 1605) to model
+[21:50:27] Added background material (extended) (ID: 1632) to model
+[21:50:27] Added background material (extended) (ID: 1659) to model
+[21:50:27] Added background material (extended) (ID: 1686) to model
+[21:50:27] Added background material (extended) (ID: 1713) to model
+[21:50:27] Added background material (extended) (ID: 1740) to model
+[21:50:27] Added background material (extended) (ID: 1767) to model
+[21:50:27] Added background material (extended) (ID: 1794) to model
+[21:50:27] Added background material (extended) (ID: 1821) to model
+[21:50:27] Added background material (extended) (ID: 1848) to model
+[21:50:27] Added background material (extended) (ID: 1875) to model
+[21:50:27] Added background material (extended) (ID: 1902) to model
+[21:50:27] Added background material (extended) (ID: 1929) to model
+[21:50:27] Added background material (extended) (ID: 1956) to model
+[21:50:27] Added background material (extended) (ID: 1983) to model
+[21:50:27] Added background material (extended) (ID: 2010) to model
+[21:50:27] Added background material (extended) (ID: 2037) to model
+[21:50:27] Added background material (extended) (ID: 2064) to model
+[21:50:27] Added background material (extended) (ID: 2091) to model
+[21:50:27] Added background material (extended) (ID: 2118) to model
+[21:50:27] Added background material (extended) (ID: 2145) to model
+[21:50:27] Added background material (extended) (ID: 2172) to model
+[21:50:27] Added background material (extended) (ID: 2199) to model
+[21:50:27] Added background material (extended) (ID: 2226) to model
+[21:50:27] Added background material (extended) (ID: 2253) to model
+[21:50:27] Added background material (extended) (ID: 2280) to model
+[21:50:27] Added background material (extended) (ID: 2307) to model
+[21:50:27] Added background material (extended) (ID: 2334) to model
+[21:50:27] Added background material (extended) (ID: 2361) to model
+[21:50:27] Added background material (extended) (ID: 2388) to model
+[21:50:27] Added discrete port 1 (ID: 2415) to model
+[21:50:27] Added discrete port 2 (ID: 2419) to model
+[21:50:27] An overlap has been found between solid component1:PDMS and solid component1:GND. Using solid component1:PDMS within overlapping regions.
+[21:50:27] An overlap has been found between solid component1:inner_slot_ring and solid component1:PDMS. Using solid component1:inner_slot_ring within overlapping regions.
+[21:50:27] An overlap has been found between solid component1:slot_ring and solid component1:PDMS. Using solid component1:slot_ring within overlapping regions.
+[21:50:27] - Storing model cells
+[21:50:27] [CADSurf] - Mesh sizes: global mesh size near to model = 3.0000000000000000e+00
+              min requested = 3.0000000000000000e+00
+              max requested = 3.0000000000000000e+01
+[21:50:27] [CADSurf] MeshGems Version: MeshGems-Core 2.15-1
+[21:50:27] [CADSurf] === Begin: PreCAD-related parameters ===
+[21:50:27] [CADSurf] == CADSurf Parameters == 
+[21:50:27] [CADSurf] meshgems_cadsurf_set_param(css, "use_precad",  "yes")
+[21:50:27] [CADSurf] Bounding box diagonal = 3.2264110503037620e+02
+[21:50:27] [CADSurf] meshgems_cadsurf_set_param(css, "remove_nano_edges",  "0")
+[21:50:27] [CADSurf] meshgems_cadsurf_set_param(css, "discard_input_topology",  "0")
+[21:50:27] [CADSurf] meshgems_cadsurf_set_param(css, "process_3d_topology",  "0")
+[21:50:27] [CADSurf] meshgems_cadsurf_set_param(css, "discard_input_2d_topology",  "0")
+[21:50:27] [CADSurf] Default periodic tolerance (1e-4*diag) = 3.2264110503037624e-02
+[21:50:27] [CADSurf] Minimum periodic tolerance = 1.0000000000000001e-05
+[21:50:27] [CADSurf] Setting it to max( 1.0000000000000001e-05, 3.2264110503037624e-02 )
+[21:50:27] [CADSurf] meshgems_cadsurf_set_param(css, "periodic_tolerance",  "0.032264110503037624")
+[21:50:27] [CADSurf] meshgems_cadsurf_set_param(css, "remove_duplicate_cad_faces",  "0")
+[21:50:27] [CADSurf] meshgems_cadsurf_set_param(css, "remove_tiny_uv_edges",  "0")
+[21:50:27] [CADSurf] === End: PreCAD-related parameters ===
+[21:50:27] [CADSurf] ==
+[21:50:27] [CADSurf] == CADSurf Parameters == 
+[21:50:27] [CADSurf] meshgems_cadsurf_set_param(css, "verbose",  "3")
+[21:50:27] [CADSurf] meshgems_cadsurf_set_param(css, "geometric_size_mode",  "local")
+[21:50:27] [CADSurf] meshgems_cadsurf_set_param(css, "physical_size_mode",  "local")
+[21:50:27] [CADSurf] 	 Max user size    = 3.0000000000000000e+01
+[21:50:27] [CADSurf] 	 Global size near = 3.0000000000000000e+00
+[21:50:27] [CADSurf] 	 Global size far  = 3.0000000000000000e+01
+[21:50:27] [CADSurf] 	 Upper size bound = 3.0000000000000000e+01
+[21:50:27] [CADSurf] meshgems_cadsurf_set_param(css, "max_size",  "30")
+[21:50:27] [CADSurf] 	Calculating min. mesh size for CADSurf...
+[21:50:27] [CADSurf] 	Diagonal of model + background box: 3.2264110503037620e+02
+[21:50:27] [CADSurf] 	Min. mesh size by diagonal (1e-3 x diagonal): 3.2264110503037619e-01
+[21:50:27] [CADSurf] 	Diagonal of model: 4.6270941205037097e+01
+[21:50:27] [CADSurf] 	Min. mesh size of model: 3.0000000000000000e+00
+[21:50:27] [CADSurf] 	Max. cell defined by user (near to model): 3.0000000000000000e+00
+[21:50:27] [CADSurf] 	Min. cell defined by user: 0.0000000000000000e+00
+[21:50:27] [CADSurf] 	Min. cell used for calculation: 2.9999999999999999e-02
+[21:50:27] [CADSurf] 	Note: min. mesh size by diagonal is too large, consider using (0.01 x max. cell = 2.9999999999999999e-02)
+[21:50:27] [CADSurf] Geometric refinement uses "min_size" setting.
+[21:50:27] [CADSurf] CADSurf "min_size" is set to min. cell: 2.9999999999999999e-02
+[21:50:27] [CADSurf] meshgems_cadsurf_set_param(css, "min_size",  "0.029999999999999999")
+[21:50:27] [CADSurf] meshgems_cadsurf_set_param(css, "max_number_of_points_per_patch",  "0")
+[21:50:27] [CADSurf] meshgems_cadsurf_set_param(css, "element_generation",  "local")
+[21:50:27] [CADSurf] Setting Triangle as default element type
+[21:50:27] [CADSurf] meshgems_cadsurf_set_param(css, "gradation",  "1.5")
+[21:50:27] [CADSurf] meshgems_cadsurf_set_param(css, "volume_gradation",  "2")
+[21:50:27] [CADSurf] meshgems_cadsurf_set_param(css, "patch_independent",  "0")
+[21:50:27] [CADSurf] meshgems_cadsurf_set_param(css, "remove_tiny_edges",  "0")
+[21:50:27] [CADSurf] meshgems_cadsurf_set_param(css, "optimise_tiny_edges",  "0")
+[21:50:27] [CADSurf] meshgems_cadsurf_set_param(css, "tiny_edge_respect_geometry",  "1")
+[21:50:27] [CADSurf] meshgems_cadsurf_set_param(css, "CheckWellDefined",  "8")
+[21:50:27] [CADSurf] meshgems_cadsurf_set_param(css, "anisotropic",  "1")
+[21:50:27] [CADSurf] meshgems_cadsurf_set_param(css, "anisotropic_ratio",  "5")
+[21:50:27] [CADSurf] meshgems_cadsurf_set_param(css, "correct_surface_intersections",  "1")
+[21:50:27] [CADSurf] meshgems_cadsurf_set_param(css, "intersection_processing_max_cost",  "15")
+[21:50:27] [CADSurf] ==
+[21:50:27] [CADSurf] Status: OK
+[21:50:27] [CADSurf] Number of intersecting edges: 0, total edge count: 824
+[21:50:27] [CADSurf] Number of intersecting faces: 0
+[21:50:27] [CADSurf] - Mesh stats: N=1425, E=824, T=3377, Q=0
+[21:50:27] [CADSurf] Testing watertightness
+[21:50:27] [CADSurf] - OK
+[21:50:27] Creating volume mesh from surface mesh
+[21:50:27] [SrfToVol] Volume meshing: 6 threads will be allocated
+[21:50:27] [SrfToVol] Running CVM
+[21:50:27] [SrfToVol] Surface to volume mesh: verifying input data
+[21:50:27] [SrfToVol] 
+[21:50:27] [SrfToVol] Generate volume mesh for 39 subdomains using 6 threads 
+ 
+[21:50:28] [SrfToVol] Assembling volume mesh
+[21:50:28] [SrfToVol] Volume mesh generated - Status = ok
+[21:50:28] [SrfToVol] - Volume mesh stats: Nb nodes = 2057, Nb edges = 824, Nb surface elements = 3377, Nb tets = 11086
+[21:50:28] Creating mesh topology.
+[21:50:28] Using mesh topology.
+[21:50:28] Writing ACIS sat.tet file because UIDs may have changed.
+[21:50:28] Using generalized mesh output routines.
+[21:50:28] Writing Bc file
+[21:50:28] Running model geometry simplification... 
+[21:50:28] Model geometry simplification: 0 seconds
+[21:50:28] Writing topot.tet...
+[21:50:28] Done (topot.tet)
+[21:50:28] Writing moegeom.tet ...
+[21:50:28] Done (moegeom.tet) 
+[21:50:28] Creating volume mesh from surface mesh - done
+[21:50:28] Writing gex file for volume mesh
+[21:50:28] Mesh curving:
+[21:50:28]     available cores:   6
+[21:50:28]     number of threads: 6
+[21:50:28] Curving elements
+[21:50:28]  Curve elements, order = 3
+
+[21:50:29] 
+#### Feedback Report Begins ####
+#### Feedback Report Ends ####
+
+[21:50:29] Done

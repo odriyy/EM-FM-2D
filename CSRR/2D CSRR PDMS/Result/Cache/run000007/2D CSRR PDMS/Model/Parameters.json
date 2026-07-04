@@ -1,0 +1,71 @@
+{
+    "parameters": [
+        {
+            "expr": "12.5",
+            "name": "pipe_Ri",
+            "value": "12.5"
+        },
+        {
+            "descr": "sensor length",
+            "expr": "20",
+            "name": "L_sub",
+            "value": "20"
+        },
+        {
+            "descr": "PVC Pipe thickness",
+            "expr": "2",
+            "name": "t_wall",
+            "value": "2"
+        },
+        {
+            "expr": "pipe_Ri + t_wall",
+            "name": "pipe_Ro",
+            "value": "14.5"
+        },
+        {
+            "descr": "PDMS Width",
+            "expr": "20",
+            "name": "W_sub",
+            "value": "20"
+        },
+        {
+            "descr": "galinstant thickness",
+            "expr": "0.02",
+            "name": "t_metal",
+            "value": "0.02"
+        },
+        {
+            "descr": "PDMS Thickness",
+            "expr": "1",
+            "name": "h_sub",
+            "value": "1"
+        },
+        {
+            "expr": "4.725",
+            "name": "r_CSRR",
+            "value": "4.725"
+        },
+        {
+            "descr": "ring slot width",
+            "expr": "0.4",
+            "name": "w_channel",
+            "value": "0.4"
+        },
+        {
+            "expr": "0.3",
+            "name": "g_slot",
+            "value": "0.3"
+        },
+        {
+            "expr": "1.1",
+            "name": "W_50",
+            "value": "1.1"
+        },
+        {
+            "expr": "0.5",
+            "name": "Microstrip_PDMS",
+            "value": "0.5"
+        }
+    ],
+    "version": 1
+}

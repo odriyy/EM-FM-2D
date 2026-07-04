@@ -1,0 +1,13 @@
+{
+   "Author": "LOQ",
+   "Comment": "",
+   "Last Problem Type": "High Frequency",
+   "Last Solver Type": "HF Frequency Domain",
+   "Last Solver Type Abb": "f",
+   "Mesh Cells": "20,835",
+   "Mesh Type": "Tetrahedral",
+   "Modeler Unique ID": "5:2d csrr pdms.cst?5f3bd3ed342d7e9b3f7eb25abce14ccb?20943:numberofparameters=11:port=1>mode=1>zre=0>zim=0?port=2>mode=1>zre=0>zim=0:::microstrip_pdms?w_50?g_slot?w_channel?r_csrr?h_sub?w_sub?pipe_ro?t_wall?l_sub?pipe_ri",
+   "ProjectVersion": "'# MWS Version: Version 2024.5 - Jun 14 2024 - ACIS 33.0.1 -",
+   "Results": "Frequency Domain: S-Parameter",
+   "Version": "3"
+}

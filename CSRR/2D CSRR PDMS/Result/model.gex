@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaGeometryFile version="20200202" creator="TetMesher">
+  <Components>
+    <Shape name="Ports\port2" id="0" visible="1" material="" line_material="$WireMaterial$">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="401 402"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Ports\port1" id="1" visible="1" material="" line_material="$WireMaterial$">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list="403 404"/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list=""/>
+    </Shape>
+    <Shape name="Components\[6,0]air_0:brick" id="2" visible="0" material="" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="481"/>
+        <Neg list="477 478 479 480 507"/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list="576"/>
+    </Shape>
+    <Shape name="Components\[4,0]air_0:brick" id="3" visible="0" material="" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="491"/>
+        <Neg list="487 488 489 490 508"/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list="577"/>
+    </Shape>
+    <Shape name="Components\[2,0]air_0:brick" id="4" visible="0" material="" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="501"/>
+        <Neg list="497 498 499 500 509"/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list="578"/>
+    </Shape>
+    <Shape name="Components\component1:Microstrip_line" id="5" visible="1" material="Galinstan/material1" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list="570 571 572 573 574 575"/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list="579"/>
+    </Shape>
+    <Shape name="Components\component1:PDMS_microstrip" id="6" visible="1" material="PDMS" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="570 571 572 573 574 575"/>
+        <Neg list="513 514 515 516 517 522"/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list="580"/>
+    </Shape>
+    <Shape name="Components\component1:solid1" id="7" visible="1" material="nutrient_solution" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list=""/>
+        <Neg list="529 530 531"/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list="581"/>
+    </Shape>
+    <Shape name="Components\component1:PVC_Pipe" id="8" visible="1" material="PVC" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="529"/>
+        <Neg list="525 526 527 528"/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list="582"/>
+    </Shape>
+    <Shape name="Components\component1:PDMS" id="9" visible="1" material="PDMS" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="522 527 545 546 548 549 551 555 556 557 558 569"/>
+        <Neg list="518 519 520 521 523 524 532 533 534 535 536 537 538 539 540 541 542 543 544 545 546 547 548 549 550 551 554 555 556 557 558 559 560 561 562 565 566 567 568 569"/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list="583 584 589 590"/>
+    </Shape>
+    <Shape name="Components\component1:slot_ring" id="10" visible="1" material="Vacuum" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="538 539 540 541 542 543 544 550 552 553 554 559 560 562"/>
+        <Neg list="552 553"/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list="585 588"/>
+    </Shape>
+    <Shape name="Components\component1:inner_slot_ring" id="11" visible="1" material="Vacuum" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="532 533 534 535 536 537 547 561 563 564 565 566 567 568"/>
+        <Neg list="563 564"/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list="586 587"/>
+    </Shape>
+    <Shape name="Components\air_0:brick" id="12" visible="1" material="air_0" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="507 508 509 513 514 515 516 517 518 519 520 521 523 524 525 526 528 530 531"/>
+        <Neg list="510 511 512"/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list="591"/>
+    </Shape>
+    <Shape name="Components\[1,0]air_0:brick" id="13" visible="0" material="" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="506 510"/>
+        <Neg list="502 503 504 505"/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list="592"/>
+    </Shape>
+    <Shape name="Components\[3,0]air_0:brick" id="14" visible="0" material="" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="496 512"/>
+        <Neg list="492 493 494 495"/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list="593"/>
+    </Shape>
+    <Shape name="Components\[5,0]air_0:brick" id="15" visible="0" material="" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="486 511"/>
+        <Neg list="482 483 484 485"/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list="594"/>
+    </Shape>
+    <Shape name="Components\[7,1]air_0:brick" id="16" visible="0" material="" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="475 476 479 487"/>
+        <Neg list="473 474"/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list="595"/>
+    </Shape>
+    <Shape name="Components\[8,1]air_0:brick" id="17" visible="0" material="" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="471 472 477 492"/>
+        <Neg list="469 470"/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list="596"/>
+    </Shape>
+    <Shape name="Components\[9,1]air_0:brick" id="18" visible="0" material="" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="467 468 484 494"/>
+        <Neg list="465 466"/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list="597"/>
+    </Shape>
+    <Shape name="Components\[10,1]air_0:brick" id="19" visible="0" material="" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="463 464 482 489"/>
+        <Neg list="461 462"/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list="598"/>
+    </Shape>
+    <Shape name="Components\[11,1]air_0:brick" id="20" visible="0" material="" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="459 460 480 497"/>
+        <Neg list="457 458"/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list="599"/>
+    </Shape>
+    <Shape name="Components\[12,1]air_0:brick" id="21" visible="0" material="" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="455 456 485 499"/>
+        <Neg list="453 454"/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list="600"/>
+    </Shape>
+    <Shape name="Components\[13,1]air_0:brick" id="22" visible="0" material="" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="451 452 483 504"/>
+        <Neg list="449 450"/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list="601"/>
+    </Shape>
+    <Shape name="Components\[14,1]air_0:brick" id="23" visible="0" material="" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="447 448 478 502"/>
+        <Neg list="445 446"/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list="602"/>
+    </Shape>
+    <Shape name="Components\[15,1]air_0:brick" id="24" visible="0" material="" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="443 444 490 498"/>
+        <Neg list="441 442"/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list="603"/>
+    </Shape>
+    <Shape name="Components\[16,1]air_0:brick" id="25" visible="0" material="" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="439 440 488 505"/>
+        <Neg list="437 438"/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list="604"/>
+    </Shape>
+    <Shape name="Components\[17,1]air_0:brick" id="26" visible="0" material="" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="435 436 495 503"/>
+        <Neg list="433 434"/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list="605"/>
+    </Shape>
+    <Shape name="Components\[18,1]air_0:brick" id="27" visible="0" material="" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="431 432 493 500"/>
+        <Neg list="429 430"/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list="606"/>
+    </Shape>
+    <Shape name="Components\[19,5]air_0:brick" id="28" visible="0" material="" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="426 427 428 442 453 461"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list="607"/>
+    </Shape>
+    <Shape name="Components\[20,5]air_0:brick" id="29" visible="0" material="" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="423 424 425 438 449 462"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list="608"/>
+    </Shape>
+    <Shape name="Components\[21,5]air_0:brick" id="30" visible="0" material="" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="420 421 422 434 450 466"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list="609"/>
+    </Shape>
+    <Shape name="Components\[22,5]air_0:brick" id="31" visible="0" material="" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="417 418 419 430 454 465"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list="610"/>
+    </Shape>
+    <Shape name="Components\[23,5]air_0:brick" id="32" visible="0" material="" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="414 415 416 441 457 473"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list="611"/>
+    </Shape>
+    <Shape name="Components\[24,5]air_0:brick" id="33" visible="0" material="" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="411 412 413 437 445 474"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list="612"/>
+    </Shape>
+    <Shape name="Components\[25,5]air_0:brick" id="34" visible="0" material="" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="408 409 410 433 446 470"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list="613"/>
+    </Shape>
+    <Shape name="Components\[26,5]air_0:brick" id="35" visible="0" material="" line_material="">
+      <MeshGroup0D list=""/>
+      <MeshGroup1D list=""/>
+      <MeshGroup2D>
+        <Pos list="405 406 407 429 458 469"/>
+        <Neg list=""/>
+        <DS list=""/>
+      </MeshGroup2D>
+      <MeshGroup3D list="614"/>
+    </Shape>
+  </Components>
+  <Materials>
+    <Material name="PEC" priority="1">
+      <Drawstyle color="0.800000012 0.800000012 0.800000012" transparency="0" linestrength="1"/>
+    </Material>
+    <Material name="Vacuum" priority="1">
+      <Drawstyle color="0.5 0.800000012 1" transparency="0" linestrength="1"/>
+    </Material>
+    <Material name="air_0" priority="1">
+      <Drawstyle color="0.600000024 0.600000024 0.600000024" transparency="0" linestrength="1"/>
+    </Material>
+    <Material name="nutrient_solution" priority="1">
+      <Drawstyle color="0 1 1" transparency="0.6505" linestrength="1"/>
+    </Material>
+    <Material name="PVC" priority="1">
+      <Drawstyle color="0.752941012 0.752941012 0.752941012" transparency="0" linestrength="1"/>
+    </Material>
+    <Material name="Galinstan/material1" priority="1">
+      <Drawstyle color="1 1 0.501960993" transparency="0" linestrength="1"/>
+    </Material>
+    <Material name="PDMS" priority="1">
+      <Drawstyle color="0.752941012 0.752941012 0.752941012" transparency="0.843999982" linestrength="1"/>
+    </Material>
+    <Material name="$NFSMaterial$" priority="1">
+      <Drawstyle color="0 1 1" transparency="0" linestrength="1"/>
+    </Material>
+  </Materials>
+  <Groups/>
+  <SimulationDomain min="-44.4792442 -44.4792442 -29.9792461" max="44.4792442 45.4792442 49.9792442"/>
+  <MeshType type="TETRAHEDRAL"/>
+  <HexMesh>
+    <Dimensions nx="85" ny="85" nz="80"/>
+    <MeshPlanesX values="-44.479244232177734 -43.420214607602091 -42.361184983026448 -41.302155358450811 -40.243125733875161 -39.184096109299517 -38.125066484723874 -37.06603686014823 -36.007007235572587 -34.947977610996944 -33.888947986421293 -32.829918361845657 -31.77088873727001 -30.71185911269437 -29.652829488118723 -28.593799863543079 -27.534770238967436 -26.475740614391789 -25.416710989816146 -24.357681365240502 -23.298651740664859 -22.239622116089215 -21.180592491513572 -20.121562866937929 -19.062533242362285 -18.003503617786642 -16.944473993210998 -15.885444368635353 -14.826414744059713 -13.767385119484068 -12.708355494908423 -11.649325870332778 -10.590296245757132 -9.5312666211814907 -8.4722369966058491 -7.4132073720302003 -6.3541777474545595 -5.2951481228789179 -4.2361184983032691 -3.1770888737276279 -2.1180592491519867 -1.059029624576338 -6.9650888672992221e-13 1.0590296245749453 2.1180592491505865 3.1770888737262353 4.2361184983018774 5.2951481228775181 6.3541777474531669 7.4132073720288085 8.4722369966044493 9.5312666211800909 10.59029624575574 11.649325870331381 12.708355494907023 13.767385119482672 14.826414744058313 15.885444368633955 16.944473993209602 18.003503617785245 19.062533242360885 20.121562866936536 21.180592491512169 22.239622116087816 23.298651740663466 24.357681365239191 25.416710989814899 26.475740614390624 27.534770238966349 28.593799863542056 29.652829488117781 30.711859112693507 31.770888737269214 32.829918361844932 33.888947986420661 34.947977610996368 36.00700723557209 37.066036860147818 38.125066484723526 39.184096109299247 40.243125733874976 41.302155358450683 42.361184983026405 43.420214607602119 44.479244232177734"/>
+    <MeshPlanesY values="-44.479244232177734 -43.408309845697318 -42.337375459216894 -41.26644107273647 -40.195506686256046 -39.124572299775622 -38.053637913295205 -36.982703526814781 -35.911769140334364 -34.84083475385394 -33.769900367373516 -32.698965980893099 -31.628031594412672 -30.557097207932248 -29.486162821451828 -28.415228434971404 -27.344294048490987 -26.273359662010584 -25.202425275530178 -24.131490889049775 -23.060556502569376 -21.98962211608897 -20.918687729608571 -19.847753343128169 -18.776818956647762 -17.705884570167363 -16.634950183686961 -15.564015797206556 -14.493081410726155 -13.422147024245753 -12.351212637765352 -11.280278251284946 -10.209343864804547 -9.1384094783241032 -8.0674750918436597 -6.9965407053632243 -5.9256063188827808 -4.8546719324023373 -3.7837375459219009 -2.7128031594414574 -1.6418687729610144 -0.57093438648057826 0.49999999999986505 1.5709343864803063 2.6418687729607497 3.7128031594411861 4.7837375459216291 5.8546719324020726 6.9256063188825081 7.9965407053629516 9.0674750918433951 10.138409478323831 11.209343864804275 12.280278251284717 13.351212637765158 14.422147024245602 15.493081410726038 16.564015797206483 17.634950183686929 18.705884570167363 19.776818956647805 20.84775334312825 21.918687729608692 22.989622116089134 24.060556502569572 25.131490889049925 26.202425275530292 27.273359662010659 28.344294048491026 29.415228434971393 30.48616282145176 31.557097207932113 32.628031594412477 33.698965980892844 34.769900367373204 35.840834753853571 36.911769140333938 37.982703526814305 39.053637913294672 40.124572299775025 41.195506686255392 42.266441072735759 43.337375459216126 44.408309845696493 45.479244232177734"/>
+    <MeshPlanesZ values="-29.979246139526367 -28.967113350011118 -27.954980560495873 -26.942847770980624 -25.930714981465375 -24.918582191950122 -23.90644940243487 -22.894316612919621 -21.882183823404368 -20.870051033889116 -19.857918244373863 -18.845785454858611 -17.833652665343358 -16.821519875828109 -15.809387086312856 -14.797254296797606 -13.785121507282353 -12.772988717767101 -11.760855928251848 -10.748723138736596 -9.7365903492213466 -8.724457559706094 -7.7123247701908406 -6.7001919806755872 -5.6880591911603355 -4.675926401645083 -3.6637936121298309 -2.6516608226145815 -1.6395280330993289 -0.62739524358407628 0.38473754593117637 1.3968703354464289 2.4090031249616812 3.4211359144768942 4.4332687039921153 5.4454014935073278 6.4575342830225484 7.469667072537761 8.4817998620529735 9.4939326515681941 10.506065441083406 11.518198230598619 12.53033102011384 13.542463809629053 14.554596599144267 15.566729388659486 16.578862178174703 17.590994967689923 18.603127757205133 19.615260546720346 20.62739333623556 21.63952612575078 22.651658915265994 23.663791704781215 24.675924494296428 25.688057283811649 26.700190073326858 27.712322862842072 28.724455652357285 29.736588441872506 30.748721231387719 31.76085402090294 32.772986810418146 33.78511959993336 34.797252389448587 35.809385178963872 36.821517968479156 37.833650757994441 38.845783547509747 39.857916337025031 40.870049126540316 41.8821819160556 42.894314705570899 43.906447495086184 44.918580284601468 45.930713074116753 46.942845863632037 47.954978653147336 48.96711144266262 49.979244232177734"/>
+  </HexMesh>
+  <UnitCell/>
+  <GeometryFile filename="3d.slim" type="slim" scale_factor_to_meter="0.001" subdomain_id=""/>
+</MetaGeometryFile>

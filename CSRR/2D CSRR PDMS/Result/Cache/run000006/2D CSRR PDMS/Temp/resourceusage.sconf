@@ -1,0 +1,15 @@
+FeatureKeywords:string:block:type:saved:MWSSCHEM, modeler:boolean:add, modeler:variables:rebuild, modeler:variables:fastrebuild, modeler:bending:acistools, modeler:model:anchorpoints, mesh::background::boolean, modeler:model:anchorpoints:saving, modeler:hidfile:history_expert, modeler:hidfile:unique_ids, SMatrix:DSNBWC:16, DELETERESULTS:M0P0, meshloading:problem_class_only, mesh:param:assertfailed, mesh:workflow:nru, mesh:workflow:srf2vol, mesh:workflow:boolean, mesh:workflow:boolean:advanced, mesh:workflow:cad2srf, mesh:workflow:cadsurf, acceleration:cpu:6, acceleration:cpudevices:1, solver:hf:fd:task:1, monitor:resultfilemap:load, mesh:tet:adaptive:anisotropicedge, solver:hf:fd:meshenhancement, la:iterative, la:precond:pdss7, la:parallel_excitation:block, monitor:resultfilemap:save, DenseInitDangerousDim, solver:hf:fd:amr:outerloop:readerrorestimator, monitor:scaling:peak, mesh:tet:adaptive:fsample:recalc, solver:hf:fd:sweep:ctdauto, solver:hf:fd:samples:8, solver:hf:fd:sampling:linear, background:normal, boundary:expanded open:xmax, boundary:expanded open:xmin, boundary:expanded open:ymax, boundary:expanded open:ymin, boundary:expanded open:zmax, boundary:expanded open:zmin, boundary:open:ConvPML, lineqssolver:setting:acceleratedrestart, material:disp:eps, material:disp:modelnth, mesh:tet, mesh:tet:autocurvature, mesh:tet:curved, mesh:tet:curved:3, monitor:3D:freq, monitor:e-field, monitor:h-field, monitor:power:1d, monitor:surface current density, solver:hf:fd, solver:hf:fd:generalpurpose:tet, solver:hf:fd:order:2, solver:hf:fd:portloss, source:discrete edge port:s-parameter, units:Capacitance:pF, units:Conductance:S, units:Current:A, units:Frequency:GHz, units:Inductance:nH, units:Length:mm, units:Resistance:Ohm, units:Temperature:degC, units:Time:ns, units:Voltage:V, solver:pp:sparameter:sensitivityanalysis, solver:pp:sparameter:basicbranch, solver:pp:sparameter:unnorm, solver:pp:sparameter:calcyz, solver:pp:sparameter:calcvswr, solver:pp:sparameter:updatebalance, lineqssolver:setting:auto, lineqssolver:setting:treecotree, mesh:tet:adaptive, front:parametersweep, solver:hf:fd:parametersweep, la:direct, DELETERESULTS:M000, modeler:picking:bwc:floppick
+LastWorkflowState:string:tetmesh:success
+solver_hf_tet_fd/InitialFreePhysicalInMB:int:5821
+solver_hf_tet_fd/MaxResidentSizeInMB:int:429
+solver_hf_tet_fd/MaxResidentSizeMiB:int:1222
+solver_hf_tet_fd/MinFreePhysicalInMB:int:5222
+solver_pp/InitialFreePhysicalInMB:int:5601
+solver_pp/MaxResidentSizeInMB:int:32
+solver_pp/MaxResidentSizeMiB:int:11
+solver_pp/MinFreePhysicalInMB:int:5593
+tetmesh/InitialFreePhysicalInMB:int:5823
+tetmesh/MaxResidentSizeInMB:int:85
+tetmesh/MaxResidentSizeMiB:int:58
+tetmesh/MinFreePhysicalInMB:int:5775
+---
