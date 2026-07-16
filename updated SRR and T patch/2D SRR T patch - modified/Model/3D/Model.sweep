@@ -1,0 +1,39 @@
+{
+    "parameter sweep": {
+        "options": {
+            "restore parameter values after run": "false",
+            "simulation type": "Frequency",
+            "skip existing combinations": "true",
+            "start active solver": "true"
+        },
+        "sequences": {
+            "Sequence 1": [
+                {
+                    "from": "15.8",
+                    "samples": "3",
+                    "to": "16.6",
+                    "type": "linear",
+                    "varname": "r_SRR"
+                },
+                {
+                    "from": "0.8",
+                    "samples": "1",
+                    "to": "0.8",
+                    "type": "linear",
+                    "varname": "g_slot"
+                },
+                {
+                    "from": "17",
+                    "samples": "4",
+                    "to": "20",
+                    "type": "linear",
+                    "varname": "L1"
+                },
+                {
+                    "index": 1
+                }
+            ]
+        },
+        "version": 1
+    }
+}
