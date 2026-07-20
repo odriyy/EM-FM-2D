@@ -10,7 +10,7 @@
             "descr": "PDMS width",
             "expr": "r_SRR*2+w_diff*2",
             "name": "W_sub",
-            "value": "45.66"
+            "value": "42.3266"
         },
         {
             "descr": "PDMS Thickness",
@@ -28,7 +28,7 @@
             "descr": "sensor length",
             "expr": "r_SRR*2 +w_diff*2",
             "name": "L_sub",
-            "value": "45.66"
+            "value": "42.3266"
         },
         {
             "descr": "outer diameter",
@@ -38,9 +38,9 @@
         },
         {
             "descr": "CSRR ring radius",
-            "expr": "20",
+            "expr": "18.3333",
             "name": "r_SRR",
-            "value": "20"
+            "value": "18.3333"
         },
         {
             "descr": "inner radius",
@@ -104,12 +104,12 @@
         {
             "expr": "r_SRR - w_channel - spacing",
             "name": "r_SRR_in",
-            "value": "17.85"
+            "value": "16.1833"
         },
         {
             "expr": "L_sub/2",
             "name": "Z_mid",
-            "value": "22.83"
+            "value": "21.1633"
         },
         {
             "expr": "0.35",
@@ -148,9 +148,9 @@
         },
         {
             "descr": "microstrip vertical length",
-            "expr": "19",
+            "expr": "25",
             "name": "L1",
-            "value": "19"
+            "value": "25"
         },
         {
             "descr": "microstrip \\vertical width",

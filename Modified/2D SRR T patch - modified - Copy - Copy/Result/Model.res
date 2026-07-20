@@ -734,8 +734,38 @@ visibility=s:visible
 creation=s:internal
 lifetime=s:rebuild
 result=s:1
+treepath=s:1D Results\Power\Excitation [1]\Power Accepted per Port\Port 1
+files=s:AcceptedPower_1(1).sig
+
+type=s:XYSIGNAL
+subtype=s:complex
+problemclass=s::8:1000
+visibility=s:visible
+creation=s:internal
+lifetime=s:rebuild
+result=s:1
 treepath=s:1D Results\Power\Excitation [1]\Loss per Material\Volume loss in PVC
 files=s:cVolume_loss_in_PVC(1).sig
+
+type=s:XYSIGNAL
+subtype=s:complex
+problemclass=s::8:1000
+visibility=s:visible
+creation=s:internal
+lifetime=s:rebuild
+result=s:1
+treepath=s:1D Results\Power\Excitation [1]\Loss in Metals
+files=s:cTotal_metal_loss(1).sig
+
+type=s:XYSIGNAL
+subtype=s:complex
+problemclass=s::8:1000
+visibility=s:visible
+creation=s:internal
+lifetime=s:rebuild
+result=s:1
+treepath=s:1D Results\Power\Excitation [1]\Power Outgoing all Ports
+files=s:ReflectedPower_1.sig
 
 type=s:XYSIGNAL
 subtype=s:complex
@@ -774,28 +804,8 @@ visibility=s:visible
 creation=s:internal
 lifetime=s:rebuild
 result=s:1
-treepath=s:1D Results\Power\Excitation [1]\Power Accepted per Port\Port 1
-files=s:AcceptedPower_1(1).sig
-
-type=s:XYSIGNAL
-subtype=s:complex
-problemclass=s::8:1000
-visibility=s:visible
-creation=s:internal
-lifetime=s:rebuild
-result=s:1
-treepath=s:1D Results\Power\Excitation [1]\Loss in Metals
-files=s:cTotal_metal_loss(1).sig
-
-type=s:XYSIGNAL
-subtype=s:complex
-problemclass=s::8:1000
-visibility=s:visible
-creation=s:internal
-lifetime=s:rebuild
-result=s:1
-treepath=s:1D Results\Power\Excitation [1]\Power Outgoing all Ports
-files=s:ReflectedPower_1.sig
+treepath=s:1D Results\Power\Excitation [1]\Loss per Material\Volume loss in PDMS
+files=s:cVolume_loss_in_PDMS(1).sig
 
 type=s:XYSIGNAL
 subtype=s:complex
@@ -806,16 +816,6 @@ lifetime=s:rebuild
 result=s:1
 treepath=s:1D Results\Power\Excitation [1]\Loss per Material\Metal loss in Galinstan
 files=s:cMetal_loss_Galinstan(1).sig
-
-type=s:XYSIGNAL
-subtype=s:complex
-problemclass=s::8:1000
-visibility=s:visible
-creation=s:internal
-lifetime=s:rebuild
-result=s:1
-treepath=s:1D Results\Power\Excitation [1]\Loss per Material\Volume loss in PDMS
-files=s:cVolume_loss_in_PDMS(1).sig
 
 type=s:XYSIGNAL
 subtype=s:complex

@@ -1412,9 +1412,7 @@ Solid.Delete "component1:Cut_circle"
 [start]command
 [end]command
 [start]content
-
 Solid.Delete "component1:hole_puncher1"
-
 [end]content
 [start]recover_picks
 1

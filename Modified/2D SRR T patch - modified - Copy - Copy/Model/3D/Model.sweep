@@ -9,13 +9,6 @@
         "sequences": {
             "Sequence 1": [
                 {
-                    "from": "19",
-                    "samples": "1",
-                    "to": "19",
-                    "type": "linear",
-                    "varname": "L1"
-                },
-                {
                     "from": "0.8",
                     "samples": "1",
                     "to": "0.8",
@@ -86,18 +79,25 @@
                     "varname": "t_gnd"
                 },
                 {
-                    "from": "18.5",
-                    "samples": "4",
-                    "to": "20",
-                    "type": "linear",
-                    "varname": "r_SRR"
-                },
-                {
                     "from": "0.5",
                     "samples": "1",
                     "to": "0.95",
                     "type": "linear",
                     "varname": "t_SRR"
+                },
+                {
+                    "from": "15",
+                    "samples": "7",
+                    "to": "25",
+                    "type": "linear",
+                    "varname": "L1"
+                },
+                {
+                    "from": "18.3333",
+                    "samples": "1",
+                    "to": "20",
+                    "type": "linear",
+                    "varname": "r_SRR"
                 },
                 {
                     "index": 1
