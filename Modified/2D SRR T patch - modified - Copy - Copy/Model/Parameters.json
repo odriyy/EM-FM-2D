@@ -142,9 +142,9 @@
             "value": "2"
         },
         {
-            "expr": "1",
+            "expr": "2",
             "name": "h2",
-            "value": "1"
+            "value": "2"
         },
         {
             "descr": "microstrip vertical length",
