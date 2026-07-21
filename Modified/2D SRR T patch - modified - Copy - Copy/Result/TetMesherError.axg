@@ -2,11 +2,11 @@
 <CSTAuxiliaryGeometry version="20170928">
   <Objects>
     <Object name="Problematic Positions" id="1">
-      <Sphere position="16 0 20.5282993" dimension="4 4 4" material="$ErrorMaterial$"/>
-      <Sphere position="16 0 20.2901745" dimension="4 4 4" material="$ErrorMaterial$"/>
-      <Sphere position="16 -7.77650692e-17 21.7982998" dimension="4 4 4" material="$ErrorMaterial$"/>
-      <Sphere position="16 -1.06926971e-16 22.0364246" dimension="4 4 4" material="$ErrorMaterial$"/>
-      <LineSet points="16 0 20.5282993 16 0 20.2901745 16 -7.77650692e-17 21.7982998 16 -1.06926971e-16 22.0364246" lines="0 1 2 3" material="$ErrorMaterial$"/>
+      <Sphere position="19 0 19.6230507" dimension="4 4 4" material="$ErrorMaterial$"/>
+      <Sphere position="19 0 19.8617001" dimension="4 4 4" material="$ErrorMaterial$"/>
+      <Sphere position="19 -1.06991266e-16 21.3703499" dimension="4 4 4" material="$ErrorMaterial$"/>
+      <Sphere position="19 -7.77650692e-17 21.1317005" dimension="4 4 4" material="$ErrorMaterial$"/>
+      <LineSet points="19 0 19.6230507 19 0 19.8617001 19 -1.06991266e-16 21.3703499 19 -7.77650692e-17 21.1317005" lines="0 1 2 3" material="$ErrorMaterial$"/>
     </Object>
   </Objects>
   <Materials/>

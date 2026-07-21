@@ -10,13 +10,13 @@
             "descr": "PDMS width",
             "expr": "r_SRR*2+w_diff*2",
             "name": "W_sub",
-            "value": "42.3266"
+            "value": "40.9934"
         },
         {
             "descr": "PDMS Thickness",
-            "expr": "9.5",
+            "expr": "9.75",
             "name": "h_sub",
-            "value": "9.5"
+            "value": "9.75"
         },
         {
             "descr": "galinstan thickness",
@@ -28,7 +28,7 @@
             "descr": "sensor length",
             "expr": "r_SRR*2 +w_diff*2",
             "name": "L_sub",
-            "value": "42.3266"
+            "value": "40.9934"
         },
         {
             "descr": "outer diameter",
@@ -38,9 +38,9 @@
         },
         {
             "descr": "CSRR ring radius",
-            "expr": "18.3333",
+            "expr": "17.6667",
             "name": "r_SRR",
-            "value": "18.3333"
+            "value": "17.6667"
         },
         {
             "descr": "inner radius",
@@ -50,9 +50,9 @@
         },
         {
             "descr": "ring/slot width",
-            "expr": "1.75",
+            "expr": "2",
             "name": "w_channel",
-            "value": "1.75"
+            "value": "2"
         },
         {
             "descr": "split gap",
@@ -104,12 +104,12 @@
         {
             "expr": "r_SRR - w_channel - spacing",
             "name": "r_SRR_in",
-            "value": "16.1833"
+            "value": "15.2667"
         },
         {
             "expr": "L_sub/2",
             "name": "Z_mid",
-            "value": "21.1633"
+            "value": "20.4967"
         },
         {
             "expr": "0.35",
@@ -117,19 +117,19 @@
             "value": "0.35"
         },
         {
-            "expr": "0.75",
+            "expr": "2",
             "name": "t_gnd",
-            "value": "0.75"
+            "value": "2"
         },
         {
-            "expr": "0.5",
+            "expr": "2",
             "name": "t_SRR",
-            "value": "0.5"
+            "value": "2"
         },
         {
-            "expr": "0.5",
+            "expr": "2",
             "name": "t_microstrip",
-            "value": "0.5"
+            "value": "2"
         },
         {
             "expr": "2",
@@ -154,9 +154,9 @@
         },
         {
             "descr": "microstrip \\vertical width",
-            "expr": "0.8",
+            "expr": "1.875",
             "name": "L2",
-            "value": "0.8"
+            "value": "1.875"
         },
         {
             "descr": "horizontal length",
@@ -177,9 +177,9 @@
             "value": "2"
         },
         {
-            "expr": "0.873125",
+            "expr": "0.87365",
             "name": "hole_puncher",
-            "value": "0.873125"
+            "value": "0.87365"
         },
         {
             "expr": "0.635",
@@ -197,9 +197,9 @@
             "value": "2.83"
         },
         {
-            "expr": "hole_puncher",
+            "expr": "1.8",
             "name": "hole_puncher1",
-            "value": "0.873125"
+            "value": "1.8"
         }
     ],
     "version": 1

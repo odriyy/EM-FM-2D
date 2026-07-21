@@ -4322,8 +4322,3 @@ With Cylinder
      .Create 
 End With
 
-'@ change material: component1:hole_puncher1 to: Vacuum
-
-'[VERSION]2024.5|33.0.1|20240614[/VERSION]
-Solid.ChangeMaterial "component1:hole_puncher1", "Vacuum"
-

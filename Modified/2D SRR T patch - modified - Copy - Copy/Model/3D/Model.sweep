@@ -9,39 +9,11 @@
         "sequences": {
             "Sequence 1": [
                 {
-                    "from": "0.8",
-                    "samples": "1",
-                    "to": "0.8",
-                    "type": "linear",
-                    "varname": "L2"
-                },
-                {
-                    "from": "15.5",
-                    "samples": "1",
-                    "to": "15.5",
-                    "type": "linear",
-                    "varname": "L4"
-                },
-                {
-                    "from": "1.75",
-                    "samples": "1",
-                    "to": "1.75",
-                    "type": "linear",
-                    "varname": "w_channel"
-                },
-                {
                     "from": "0.6",
                     "samples": "1",
                     "to": "0.6",
                     "type": "linear",
                     "varname": "g_slot"
-                },
-                {
-                    "from": "0.873125",
-                    "samples": "1",
-                    "to": "1",
-                    "type": "linear",
-                    "varname": "hole_puncher"
                 },
                 {
                     "from": "2",
@@ -72,32 +44,88 @@
                     "varname": "w_diff"
                 },
                 {
-                    "from": "0.75",
+                    "from": "15.5",
+                    "samples": "1",
+                    "to": "15.5",
+                    "type": "linear",
+                    "varname": "L4"
+                },
+                {
+                    "from": "9.75",
+                    "samples": "1",
+                    "to": "9.5",
+                    "type": "linear",
+                    "varname": "h_sub"
+                },
+                {
+                    "from": "2",
+                    "samples": "1",
+                    "to": "1.75",
+                    "type": "linear",
+                    "varname": "w_channel"
+                },
+                {
+                    "from": "0.87365",
+                    "samples": "1",
+                    "to": "2",
+                    "type": "linear",
+                    "varname": "hole_puncher"
+                },
+                {
+                    "from": "0.3",
+                    "samples": "1",
+                    "to": "0.3",
+                    "type": "linear",
+                    "varname": "cm"
+                },
+                {
+                    "from": "1.8",
+                    "samples": "1",
+                    "to": "2",
+                    "type": "linear",
+                    "varname": "hole_puncher1"
+                },
+                {
+                    "from": "2",
                     "samples": "1",
                     "to": "1",
                     "type": "linear",
                     "varname": "t_gnd"
                 },
                 {
-                    "from": "0.5",
+                    "from": "2",
+                    "samples": "1",
+                    "to": "0.5",
+                    "type": "linear",
+                    "varname": "t_microstrip"
+                },
+                {
+                    "from": "2",
                     "samples": "1",
                     "to": "0.95",
                     "type": "linear",
                     "varname": "t_SRR"
                 },
                 {
-                    "from": "15",
-                    "samples": "7",
+                    "from": "1.875",
+                    "samples": "1",
+                    "to": "2",
+                    "type": "linear",
+                    "varname": "L2"
+                },
+                {
+                    "from": "17.6667",
+                    "samples": "1",
+                    "to": "25",
+                    "type": "linear",
+                    "varname": "r_SRR"
+                },
+                {
+                    "from": "18",
+                    "samples": "3",
                     "to": "25",
                     "type": "linear",
                     "varname": "L1"
-                },
-                {
-                    "from": "18.3333",
-                    "samples": "1",
-                    "to": "20",
-                    "type": "linear",
-                    "varname": "r_SRR"
                 },
                 {
                     "index": 1

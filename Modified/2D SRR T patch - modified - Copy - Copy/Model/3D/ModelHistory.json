@@ -5423,15 +5423,6 @@
                 "     .Create ",
                 "End With"
             ]
-        },
-        {
-            "caption": "change material: component1:hole_puncher1 to: Vacuum",
-            "version": "2024.5|33.0.1|20240614",
-            "hidden": false,
-            "type": "vba",
-            "code": [
-                "Solid.ChangeMaterial \"component1:hole_puncher1\", \"Vacuum\""
-            ]
         }
     ]
 }

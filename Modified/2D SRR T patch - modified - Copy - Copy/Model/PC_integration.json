@@ -12,7 +12,7 @@
       {
          "name": "h_sub",
          "type": "float",
-         "value": 9.5
+         "value": 9.75
       },
       {
          "name": "t_metal",
@@ -22,12 +22,12 @@
       {
          "name": "r_SRR",
          "type": "float",
-         "value": 18.3333
+         "value": 17.6667
       },
       {
          "name": "w_channel",
          "type": "float",
-         "value": 1.75
+         "value": 2.0
       },
       {
          "name": "g_slot",
@@ -82,17 +82,17 @@
       {
          "name": "t_gnd",
          "type": "float",
-         "value": 0.75
+         "value": 2.0
       },
       {
          "name": "t_SRR",
          "type": "float",
-         "value": 0.5
+         "value": 2.0
       },
       {
          "name": "t_microstrip",
          "type": "float",
-         "value": 0.5
+         "value": 2.0
       },
       {
          "name": "h1",
@@ -117,7 +117,7 @@
       {
          "name": "L2",
          "type": "float",
-         "value": 0.8
+         "value": 1.875
       },
       {
          "name": "L4",
@@ -137,7 +137,7 @@
       {
          "name": "hole_puncher",
          "type": "float",
-         "value": 0.873125
+         "value": 0.87365
       },
       {
          "name": "needle_radius",
@@ -153,6 +153,11 @@
          "name": "w_diff",
          "type": "float",
          "value": 2.83
+      },
+      {
+         "name": "hole_puncher1",
+         "type": "float",
+         "value": 1.8
       }
    ],
    "outputVariables": []

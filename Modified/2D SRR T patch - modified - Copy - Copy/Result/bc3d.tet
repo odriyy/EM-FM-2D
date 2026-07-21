@@ -12,9 +12,9 @@ Vacuum
 >> Material name:
 PVC
 
-2 0
+2 1
 >> Material name:
-Vacuum
+PDMS
 
 3 1
 >> Material name:
@@ -46,7 +46,7 @@ Galinstan
 
 // Number 2D OBJECTS:
 // ^^^^^^^^^^^^^^^^^^
-74
+69
 
 // Obj2D_ID, BCCode (0=Reg,1=PEC,2=PMC,3=RHO,4=OHM,5=PORT,6=OPEN,7=EXPANDEDOPEN,8=PERIODIC,9=TANGENTIAL,10=NORMAL):
 // ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -64,9 +64,11 @@ Galinstan
 
 6 7
 
-7 0
+7 3
+Galinstan
 
-8 0
+8 3
+Galinstan
 
 9 0
 
@@ -74,15 +76,20 @@ Galinstan
 
 11 0
 
-12 0
+12 3
+Galinstan
 
-13 0
+13 3
+Galinstan
 
-14 0
+14 3
+Galinstan
 
-15 0
+15 3
+Galinstan
 
-16 0
+16 3
+Galinstan
 
 17 3
 Galinstan
@@ -117,8 +124,7 @@ Galinstan
 27 3
 Galinstan
 
-28 3
-Galinstan
+28 0
 
 29 3
 Galinstan
@@ -126,42 +132,35 @@ Galinstan
 30 3
 Galinstan
 
-31 3
-Galinstan
+31 0
 
-32 3
-Galinstan
+32 0
 
 33 3
 Galinstan
 
-34 3
-Galinstan
+34 0
 
 35 3
 Galinstan
 
-36 3
+36 0
+
+37 0
+
+38 0
+
+39 0
+
+40 0
+
+41 0
+
+42 3
 Galinstan
 
-37 3
+43 3
 Galinstan
-
-38 3
-Galinstan
-
-39 3
-Galinstan
-
-40 3
-Galinstan
-
-41 3
-Galinstan
-
-42 0
-
-43 0
 
 44 3
 Galinstan
@@ -172,9 +171,11 @@ Galinstan
 46 3
 Galinstan
 
-47 0
+47 3
+Galinstan
 
-48 0
+48 3
+Galinstan
 
 49 3
 Galinstan
@@ -188,12 +189,14 @@ Galinstan
 52 3
 Galinstan
 
-53 0
+53 3
+Galinstan
 
 54 3
 Galinstan
 
-55 0
+55 3
+Galinstan
 
 56 3
 Galinstan
@@ -232,21 +235,6 @@ Galinstan
 Galinstan
 
 68 3
-Galinstan
-
-69 3
-Galinstan
-
-70 3
-Galinstan
-
-71 3
-Galinstan
-
-72 3
-Galinstan
-
-73 3
 Galinstan
 
 // Number 1D OBJECTS:
