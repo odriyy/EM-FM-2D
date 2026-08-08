@@ -1,0 +1,93 @@
+
+The model to heal:
+=====================
+ENTITY[0]
+    1 body record,     88 bytes
+    1 lump record,     80 bytes
+    1 transform record,    168 bytes
+    1 shell record,     96 bytes
+    6 face records,    672 bytes
+   26 attrib records,   2704 bytes
+    6 loop records,    672 bytes
+    6 surface records,   1504 bytes
+   24 coedge records,   2496 bytes
+   12 edge records,   1632 bytes
+    8 vertex records,    576 bytes
+   12 curve records,   2272 bytes
+    8 point records,    768 bytes
+Total storage 13728 bytes
+
+GEOMBUILD ANALYSIS :
+====================
+	gap tolerance = 0.000100
+	no. of edges = 12
+	no. of tolerant edges = 0
+	no. of bad edges = 0
+	no. of vertices = 8
+	no. of tolerant vertices = 0
+	no. of bad vertices = 0
+
+The stitched model:
+===================
+ENTITY[0]
+    1 body record,     88 bytes
+    1 lump record,     80 bytes
+    1 transform record,    168 bytes
+    1 shell record,     96 bytes
+    6 face records,    672 bytes
+   26 attrib records,   2704 bytes
+    6 loop records,    672 bytes
+    6 surface records,   1504 bytes
+   24 coedge records,   2496 bytes
+   12 edge records,   1632 bytes
+    8 vertex records,    576 bytes
+   12 curve records,   2272 bytes
+    8 point records,    768 bytes
+Total storage 13728 bytes
+
+The simplified model:
+=====================
+ENTITY[0]
+    1 body record,     88 bytes
+    1 lump record,     80 bytes
+    1 transform record,    168 bytes
+    1 shell record,     96 bytes
+    6 face records,    672 bytes
+   26 attrib records,   2704 bytes
+    6 loop records,    672 bytes
+    6 surface records,   1504 bytes
+   24 coedge records,   2496 bytes
+   12 edge records,   1632 bytes
+    8 vertex records,    576 bytes
+   12 curve records,   2272 bytes
+    8 point records,    768 bytes
+Total storage 13728 bytes
+
+The gap tightened model:
+========================
+ENTITY[0]
+    1 body record,     88 bytes
+    1 lump record,     80 bytes
+    1 transform record,    168 bytes
+    1 shell record,     96 bytes
+    6 face records,    672 bytes
+   26 attrib records,   2704 bytes
+    6 loop records,    672 bytes
+    6 surface records,   1504 bytes
+   24 coedge records,   2496 bytes
+   12 edge records,   1632 bytes
+    8 vertex records,    576 bytes
+   12 curve records,   2272 bytes
+    8 point records,    768 bytes
+Total storage 13728 bytes
+
+GEOMBUILD ANALYSIS :
+====================
+	gap tolerance = 0.000100
+	no. of edges = 12
+	no. of tolerant edges = 0
+	no. of bad edges = 0
+	no. of vertices = 8
+	no. of tolerant vertices = 0
+	no. of bad vertices = 0
+	percentage of good geom = 100

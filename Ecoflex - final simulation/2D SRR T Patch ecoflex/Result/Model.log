@@ -1,0 +1,257 @@
+2026-07-21 23:42:10   *** Warning ***
+
+                      At least one end point of discrete port 1 is not connected to any good
+                      conductor.  More...
+
+                      ------------------------------------------------------------------------------
+2026-07-21 23:42:10   Please prefer discrete face ports over discrete edge ports. The Frequency
+                      Domain solver may benefit from face ports in terms of accuracy and run time.
+                      For convenience, a conversion macro exists in "Macros->Construct->Discrete
+                      Ports".
+
+                      ------------------------------------------------------------------------------
+2026-07-21 23:42:16   *** Warning ***
+
+                      This software is licensed for non-commercial use only.
+
+                      ------------------------------------------------------------------------------
+2026-07-21 23:42:16   *** Warning ***
+
+2026-07-21 23:42:16   `tbbmalloc_proxy` cannot replace memory allocation routines (status:-1):
+                      Success: free (ucrtbase.dll), byte pattern: <C7442410000000008B4424>
+                      Fail: _msize (ucrtbase.dll), byte pattern: <E9ABFFFFFFCCCCCCCCCCCC>
+                      The solver will continue with a reduced performance.
+
+                      ------------------------------------------------------------------------------
+2026-07-21 23:42:16   Units settings: 
+
+                        Dimensions: mm
+                        Frequency:  GHz
+                        Time:       ns
+
+                      ------------------------------------------------------------------------------
+2026-07-21 23:42:16   Boundary conditions: 
+
+                        YZsymmetry: none
+                        XZsymmetry: none
+                        XYsymmetry: none
+
+                        Xmin: expanded open
+                        Xmax: expanded open
+
+                        Ymin: expanded open
+                        Ymax: expanded open
+
+                        Zmin: expanded open
+                        Zmax: expanded open
+
+                      ------------------------------------------------------------------------------
+2026-07-21 23:42:16   Order settings: 
+
+                        Solver order   : 2nd (constant)
+                        Curved elements: up to order 3 (automatic)
+
+                      ------------------------------------------------------------------------------
+2026-07-21 23:42:16   *** Warning ***
+
+2026-07-21 23:42:16   The mesh adaptation has been deactivated. It is strongly recommended to enable the mesh adaptation for the tetrahedral 
+                      mesh unless the problem is very large.
+
+                      ------------------------------------------------------------------------------
+2026-07-21 23:42:16   An iterative solver will be used first.
+
+                      ------------------------------------------------------------------------------
+2026-07-21 23:42:16     Mesh time                :	5 s
+
+
+                      ------------------------------------------------------------------------------
+2026-07-21 23:42:16   
+                      ================================================================================
+                      Frequency Domain Solver calculation cycle started
+
+                      ------------------------------------------------------------------------------
+2026-07-21 23:42:16   Solver started at: 2026-07-21 23:42:16 +0800
+
+                        Module:  Frequency Domain: S-Parameter (Win 64)
+                        Version: 2024.5 Release from 2024-06-14 (change 1285309)
+
+                      ------------------------------------------------------------------------------
+2026-07-21 23:42:16     Calculation 1 (Frequency: 5 GHz)
+
+
+                      ------------------------------------------------------------------------------
+2026-07-21 23:42:16   *** Warning ***
+
+2026-07-21 23:42:16   Some edges which are part of lossy conductor surfaces are the intersection of otherwise disjoint regions. These edges 
+                      will be treated as infinitely thin PEC wires. Click here to show the positions.
+
+                      ------------------------------------------------------------------------------
+2026-07-21 23:42:17   *** Warning ***
+
+2026-07-21 23:42:17   Low memory: Only 1.21 GB of 15.71 GB available.
+
+
+                      ------------------------------------------------------------------------------
+2026-07-21 23:42:17     Matrix setup time        :	0 s
+                        Degrees of freedom       :	84286
+                        Number of mesh cells     :	12673
+
+                        Stimulation port         :	1
+                        Accuracy                 :	8.82533e-05
+                        Iterations               :	20
+                        Solver time              :	0 s
+
+
+                      ------------------------------------------------------------------------------
+2026-07-21 23:42:17     Total time               :	1 s
+
+                      ------------------------------------------------------------------------------
+2026-07-21 23:42:17   
+
+                      ------------------------------------------------------------------------------
+2026-07-21 23:42:17     Calculation 2 (Frequency: 1 GHz)
+
+
+                      ------------------------------------------------------------------------------
+2026-07-21 23:42:18     Matrix setup time        :	0 s
+                        Degrees of freedom       :	84286
+                        Number of mesh cells     :	12673
+
+                        Stimulation port         :	1
+                        Accuracy                 :	5.05598e-05
+                        Iterations               :	21
+                        Solver time              :	0 s
+
+
+                      ------------------------------------------------------------------------------
+2026-07-21 23:42:18     Total time               :	0 s
+
+                      ------------------------------------------------------------------------------
+2026-07-21 23:42:18   
+
+                      ------------------------------------------------------------------------------
+2026-07-21 23:42:18     Calculation 3 (Frequency: 3 GHz)
+
+
+                      ------------------------------------------------------------------------------
+2026-07-21 23:42:19     Matrix setup time        :	0 s
+                        Degrees of freedom       :	84286
+                        Number of mesh cells     :	12673
+
+                        Stimulation port         :	1
+                        Accuracy                 :	7.09834e-05
+                        Iterations               :	25
+                        Solver time              :	0 s
+
+
+                      ------------------------------------------------------------------------------
+2026-07-21 23:42:19     Total time               :	0 s
+
+                      ------------------------------------------------------------------------------
+2026-07-21 23:42:19   
+
+                      ------------------------------------------------------------------------------
+2026-07-21 23:42:19     Calculation 4 (Frequency: 4 GHz)
+
+
+                      ------------------------------------------------------------------------------
+2026-07-21 23:42:20     Matrix setup time        :	0 s
+                        Degrees of freedom       :	84286
+                        Number of mesh cells     :	12673
+
+                        Stimulation port         :	1
+                        Accuracy                 :	8.7175e-05
+                        Iterations               :	8
+                        Solver time              :	0 s
+
+
+                      ------------------------------------------------------------------------------
+2026-07-21 23:42:20     Total time               :	0 s
+
+                      ------------------------------------------------------------------------------
+2026-07-21 23:42:20   
+
+                      ------------------------------------------------------------------------------
+2026-07-21 23:42:20     Calculation 5 (Frequency: 2.344 GHz)
+
+
+                      ------------------------------------------------------------------------------
+2026-07-21 23:42:21     Matrix setup time        :	0 s
+                        Degrees of freedom       :	84286
+                        Number of mesh cells     :	12673
+
+                        Stimulation port         :	1
+                        Accuracy                 :	9.54051e-05
+                        Iterations               :	9
+                        Solver time              :	0 s
+
+
+                      ------------------------------------------------------------------------------
+2026-07-21 23:42:21     Total time               :	0 s
+
+                      ------------------------------------------------------------------------------
+2026-07-21 23:42:21   
+
+                      ------------------------------------------------------------------------------
+2026-07-21 23:42:21     Calculation 6 (Frequency: 3.312 GHz)
+
+
+                      ------------------------------------------------------------------------------
+2026-07-21 23:42:21     Matrix setup time        :	0 s
+                        Degrees of freedom       :	84286
+                        Number of mesh cells     :	12673
+
+                        Stimulation port         :	1
+                        Accuracy                 :	8.29435e-05
+                        Iterations               :	5
+                        Solver time              :	0 s
+
+
+                      ------------------------------------------------------------------------------
+2026-07-21 23:42:21     Total time               :	0 s
+
+                      ------------------------------------------------------------------------------
+2026-07-21 23:42:21   
+
+                      ------------------------------------------------------------------------------
+2026-07-21 23:42:21   Finished the general purpose interpolative broadband frequency sweep:
+                      All broadband sweep convergence criteria have been satisfied after
+                      calculating 6 frequency samples:
+
+                        Broadband sweep error threshold value :  0.01 (All S-Parameters) 
+                        Number of error criterion checks      :  2 (All S-Parameters) 
+                        Minimum number of samples             :  3
+                        Number of data samples, linear        :  1001
+
+                      ------------------------------------------------------------------------------
+2026-07-21 23:42:21     Number of mesh cells     :	12673
+                        Degrees of freedom       :	84286
+                        Total Solver Time        :	9 s
+                      ================================================================================
+
+
+
+                      ------------------------------------------------------------------------------
+2026-07-21 23:42:21     ----------------------------------------------------------------------------
+                                            Peak memory used (kB)         Free physical memory (kB) 
+                                                                          At begin     Minimum      
+                        ----------------------------------------------------------------------------
+                        Solver start        25600                         1421212      1419588      
+                        Eq. system setup    237176                        1410408      1301620      
+                        Eq. system solve    237200                        1365296      1255300      
+                        Solver run total    237200                        1421216      1261332      
+
+                        Computer name       LAPTOP-3AL186QN
+                        ----------------------------------------------------------------------------
+
+
+                      ------------------------------------------------------------------------------
+2026-07-21 23:42:22   Running postprocessing.
+
+                      ------------------------------------------------------------------------------
+2026-07-21 23:42:23   Postprocessing finished.
+
+                      ------------------------------------------------------------------------------
+2026-07-21 23:42:23   Creating parametric 1D results for Run ID 70
+
+                      ------------------------------------------------------------------------------

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SchematicTopology Version="2.5" Seed="29" Grid="25">
+    <Block Id="1" ForeignId="807649395" Class="MWSSCHEM" ImageIndex="1">
+        <Size Height="150" Width="150"/>
+        <Pins Distribution="TwoSidesDownward">
+            <Pin Index="0" Port="0" BlockPosition="Left">
+                <Label>1<LabelAppearance VerticalMargin="0" RightMargin="0" Color="#000000" LeftMargin="0" Placement="Inside" HorizontalMargin="0" Flags="Right Top">
+                        <Font PointSize="16"/>
+                    </LabelAppearance>
+                </Label>
+            </Pin>
+            <Ports>
+                <Port Name="1" Label=""/>
+            </Ports>
+        </Pins>
+        <Image IconPosition="TopRight" FileName="../3D/Model.dib" Scale="AutoFit">
+            <Size Height="256" Width="256"/>
+        </Image>
+        <Pos X="100" Y="0"/>
+        <ToolTip>CST MICROWAVE STUDIO schematic block MWSSCHEM1</ToolTip>
+    </Block>
+    <Block Id="2" ForeignId="227667804" Class="EXTPORT" Flags="NotResizable">
+        <Size Height="50" Width="100"/>
+        <Pins Distribution="Custom">
+            <Pin Index="0" Port="0" BlockPosition="Center">
+                <Label>
+                    <LabelAppearance VerticalMargin="0" RightMargin="0" Color="#000000" LeftMargin="0" Placement="Inside" HorizontalMargin="0" Flags="">
+                        <Font PointSize="16"/>
+                    </LabelAppearance>
+                </Label>
+            </Pin>
+            <Ports>
+                <Port Name="" Label=""/>
+            </Ports>
+        </Pins>
+        <Pos X="500" Y="0"/>
+        <Label>1</Label>
+        <ToolTip>External Port 1</ToolTip>
+    </Block>
+    <Block Id="4" ForeignId="1782998656" Class="EXTPORT" Flags="NotResizable">
+        <Size Height="50" Width="100"/>
+        <Pins Distribution="Custom">
+            <Pin Index="0" Port="0" BlockPosition="Center">
+                <Label>
+                    <LabelAppearance VerticalMargin="0" RightMargin="0" Color="#000000" LeftMargin="0" Placement="Inside" HorizontalMargin="0" Flags="">
+                        <Font PointSize="16"/>
+                    </LabelAppearance>
+                </Label>
+            </Pin>
+            <Ports>
+                <Port Name="" Label=""/>
+            </Ports>
+        </Pins>
+        <Pos X="-300" Y="0"/>
+        <Label>2</Label>
+        <ToolTip>External Port 2</ToolTip>
+    </Block>
+    <Block Id="6" ForeignId="1461326647" Class="CAP" Flags="NotResizable">
+        <Size Height="60" Width="50"/>
+        <Transform m12="1" m21="-1" m22="0" m11="0"/>
+        <Pos X="-25" Y="175"/>
+        <Label>cm p</Label>
+        <ToolTip>Capacitor CAP1</ToolTip>
+    </Block>
+    <Block Id="7" ForeignId="1558485600" Class="CAP" Flags="NotResizable">
+        <Size Height="60" Width="50"/>
+        <Transform m12="-1" m21="1" m22="0" m11="0"/>
+        <Pos X="200" Y="175"/>
+        <Label>cm p</Label>
+        <ToolTip>Capacitor CAP2</ToolTip>
+    </Block>
+    <Block Id="9" ForeignId="40712226" Class="CAP" Flags="NotResizable">
+        <Size Height="60" Width="50"/>
+        <Transform m22="-1" m11="-1"/>
+        <Pos X="-125" Y="0"/>
+        <Label>ct p</Label>
+        <ToolTip>Capacitor CAP3</ToolTip>
+    </Block>
+    <Block Id="12" ForeignId="814270919" Class="CAP" Flags="NotResizable">
+        <Size Height="60" Width="50"/>
+        <Pos X="325" Y="0"/>
+        <Label>ct p</Label>
+        <ToolTip>Capacitor CAP4</ToolTip>
+    </Block>
+    <Link Id="15">
+        <Connection Pin="0" Ref="12" Type="Pin"/>
+        <Connection Pin="1" Ref="7" Type="Pin"/>
+        <Route>
+            <Pos X="280" Y="0"/>
+            <Pos X="200" Y="0"/>
+            <Pos X="200" Y="130"/>
+        </Route>
+        <Pos X="0" Y="0"/>
+    </Link>
+    <Link Id="16">
+        <Connection Pin="1" Ref="12" Type="Pin"/>
+        <Connection Pin="0" Ref="2" Type="Pin"/>
+        <Route>
+            <Pos X="370" Y="0"/>
+            <Pos X="450" Y="0"/>
+        </Route>
+        <Pos X="0" Y="0"/>
+    </Link>
+    <Link Id="18">
+        <Connection Pin="1" Ref="9" Type="Pin"/>
+        <Connection Pin="0" Ref="4" Type="Pin"/>
+        <Route>
+            <Pos X="-170" Y="0"/>
+            <Pos X="-250" Y="0"/>
+        </Route>
+        <Pos X="0" Y="0"/>
+    </Link>
+    <Link Id="20">
+        <Connection Pin="0" Ref="6" Type="Pin"/>
+        <Connection Pin="0" Ref="9" Type="Pin"/>
+        <Route>
+            <Pos X="-25" Y="130"/>
+            <Pos X="-25" Y="0"/>
+            <Pos X="-80" Y="0"/>
+        </Route>
+        <Pos X="0" Y="0"/>
+    </Link>
+    <Block Id="25" ForeignId="1972281438" Class="GND">
+        <Size Height="50" Width="50"/>
+        <Pos X="75" Y="275"/>
+        <ToolTip>Ground GND1</ToolTip>
+    </Block>
+    <Link Id="26">
+        <Connection Pin="0" Ref="25" Type="Pin"/>
+        <Connection Id="27" Type="Junction"/>
+        <Route>
+            <Pos X="75" Y="255"/>
+            <Pos X="75" Y="225"/>
+        </Route>
+        <Pos X="0" Y="0"/>
+    </Link>
+    <Junction Id="27" Fixed="0">
+        <Pos X="75" Y="225"/>
+    </Junction>
+    <Link Id="28">
+        <Connection Pin="0" Ref="7" Type="Pin"/>
+        <Connection Id="27" Type="Junction"/>
+        <Route>
+            <Pos X="200" Y="220"/>
+            <Pos X="200" Y="225"/>
+            <Pos X="75" Y="225"/>
+        </Route>
+        <Pos X="0" Y="0"/>
+    </Link>
+    <Link Id="29">
+        <Connection Id="27" Type="Junction"/>
+        <Connection Pin="1" Ref="6" Type="Pin"/>
+        <Route>
+            <Pos X="75" Y="225"/>
+            <Pos X="-25" Y="225"/>
+            <Pos X="-25" Y="220"/>
+        </Route>
+        <Pos X="0" Y="0"/>
+    </Link>
+</SchematicTopology>

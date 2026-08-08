@@ -1,0 +1,258 @@
+// Number 3D OBJECTS:
+// ^^^^^^^^^^^^^^^^^^
+10
+
+// Obj3D_ID, MediaCode (0=Iso3D,1=LossyIso3D,2=PEC,3=Aniso3D,4=LossyAniso3D,5=SurfaceImp)
+// ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+0 0
+>> Material name:
+Vacuum
+
+1 1
+>> Material name:
+PVC
+
+2 1
+>> Material name:
+PDMS
+
+3 1
+>> Material name:
+PDMS
+
+4 0
+>> Material name:
+air_0
+
+5 5
+>> Material name:
+Galinstan
+
+6 5
+>> Material name:
+Galinstan
+
+7 5
+>> Material name:
+Galinstan
+
+8 5
+>> Material name:
+Galinstan
+
+9 5
+>> Material name:
+Galinstan
+
+// Number 2D OBJECTS:
+// ^^^^^^^^^^^^^^^^^^
+73
+
+// Obj2D_ID, BCCode (0=Reg,1=PEC,2=PMC,3=RHO,4=OHM,5=PORT,6=OPEN,7=EXPANDEDOPEN,8=PERIODIC,9=TANGENTIAL,10=NORMAL):
+// ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+0 0
+
+1 7
+
+2 7
+
+3 7
+
+4 7
+
+5 7
+
+6 7
+
+7 0
+
+8 0
+
+9 0
+
+10 0
+
+11 0
+
+12 0
+
+13 0
+
+14 0
+
+15 0
+
+16 0
+
+17 3
+Galinstan
+
+18 3
+Galinstan
+
+19 3
+Galinstan
+
+20 3
+Galinstan
+
+21 3
+Galinstan
+
+22 3
+Galinstan
+
+23 3
+Galinstan
+
+24 3
+Galinstan
+
+25 3
+Galinstan
+
+26 3
+Galinstan
+
+27 3
+Galinstan
+
+28 3
+Galinstan
+
+29 3
+Galinstan
+
+30 3
+Galinstan
+
+31 3
+Galinstan
+
+32 3
+Galinstan
+
+33 3
+Galinstan
+
+34 3
+Galinstan
+
+35 3
+Galinstan
+
+36 3
+Galinstan
+
+37 3
+Galinstan
+
+38 3
+Galinstan
+
+39 3
+Galinstan
+
+40 3
+Galinstan
+
+41 0
+
+42 0
+
+43 0
+
+44 0
+
+45 3
+Galinstan
+
+46 3
+Galinstan
+
+47 3
+Galinstan
+
+48 3
+Galinstan
+
+49 3
+Galinstan
+
+50 0
+
+51 3
+Galinstan
+
+52 0
+
+53 3
+Galinstan
+
+54 3
+Galinstan
+
+55 3
+Galinstan
+
+56 3
+Galinstan
+
+57 3
+Galinstan
+
+58 3
+Galinstan
+
+59 3
+Galinstan
+
+60 3
+Galinstan
+
+61 3
+Galinstan
+
+62 3
+Galinstan
+
+63 3
+Galinstan
+
+64 3
+Galinstan
+
+65 3
+Galinstan
+
+66 3
+Galinstan
+
+67 3
+Galinstan
+
+68 3
+Galinstan
+
+69 3
+Galinstan
+
+70 3
+Galinstan
+
+71 3
+Galinstan
+
+72 3
+Galinstan
+
+// Number 1D OBJECTS:
+// ^^^^^^^^^^^^^^^^^^
+2
+
+// Obj1D_ID, BCCode (0=Reg,1=PEC,2=PMC,3=PORT,4=Lumped):
+// ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+0 0
+1 3
+1
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CSTAuxiliaryGeometry version="20170928">
+  <Objects>
+    <Object name="Problematic Positions" id="1">
+      <Sphere position="19 0 8.95635033" dimension="4 4 4" material="$ErrorMaterial$"/>
+      <Sphere position="19 0 9.19499969" dimension="4 4 4" material="$ErrorMaterial$"/>
+      <Sphere position="19 -1.06991266e-16 10.7036505" dimension="4 4 4" material="$ErrorMaterial$"/>
+      <Sphere position="19 -7.77650692e-17 10.4650002" dimension="4 4 4" material="$ErrorMaterial$"/>
+      <Sphere position="19 0 9.19499969" dimension="4 4 4" material="$ErrorMaterial$"/>
+      <Sphere position="19 0 9.82999992" dimension="4 4 4" material="$ErrorMaterial$"/>
+      <Sphere position="19 -7.77650692e-17 10.4650002" dimension="4 4 4" material="$ErrorMaterial$"/>
+      <Sphere position="19 0 9.82999992" dimension="4 4 4" material="$ErrorMaterial$"/>
+      <LineSet points="19 0 8.95635033 19 0 9.19499969 19 -1.06991266e-16 10.7036505 19 -7.77650692e-17 10.4650002 19 0 9.19499969 19 0 9.82999992 19 -7.77650692e-17 10.4650002 19 0 9.82999992" lines="0 1 2 3 4 5 6 7" material="$ErrorMaterial$"/>
+    </Object>
+  </Objects>
+  <Materials/>
+  <Groups/>
+</CSTAuxiliaryGeometry>

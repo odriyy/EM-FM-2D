@@ -1,0 +1,137 @@
+{
+    "parameter sweep": {
+        "options": {
+            "restore parameter values after run": "false",
+            "simulation type": "Frequency",
+            "skip existing combinations": "true",
+            "start active solver": "true"
+        },
+        "sequences": {
+            "Sequence 1": [
+                {
+                    "from": "2",
+                    "samples": "1",
+                    "to": "4",
+                    "type": "linear",
+                    "varname": "L3"
+                },
+                {
+                    "from": "1",
+                    "samples": "1",
+                    "to": "2",
+                    "type": "linear",
+                    "varname": "h2"
+                },
+                {
+                    "from": "2.83",
+                    "samples": "1",
+                    "to": "4",
+                    "type": "linear",
+                    "varname": "L_diff"
+                },
+                {
+                    "from": "2.83",
+                    "samples": "1",
+                    "to": "4",
+                    "type": "linear",
+                    "varname": "w_diff"
+                },
+                {
+                    "from": "9.75",
+                    "samples": "1",
+                    "to": "9.5",
+                    "type": "linear",
+                    "varname": "h_sub"
+                },
+                {
+                    "from": "2",
+                    "samples": "1",
+                    "to": "1.75",
+                    "type": "linear",
+                    "varname": "w_channel"
+                },
+                {
+                    "from": "0.87365",
+                    "samples": "1",
+                    "to": "2",
+                    "type": "linear",
+                    "varname": "hole_puncher"
+                },
+                {
+                    "from": "0.3",
+                    "samples": "1",
+                    "to": "0.3",
+                    "type": "linear",
+                    "varname": "cm"
+                },
+                {
+                    "from": "2",
+                    "samples": "1",
+                    "to": "1",
+                    "type": "linear",
+                    "varname": "t_gnd"
+                },
+                {
+                    "from": "2",
+                    "samples": "1",
+                    "to": "0.5",
+                    "type": "linear",
+                    "varname": "t_microstrip"
+                },
+                {
+                    "from": "2",
+                    "samples": "1",
+                    "to": "0.95",
+                    "type": "linear",
+                    "varname": "t_SRR"
+                },
+                {
+                    "from": "18",
+                    "samples": "1",
+                    "to": "18",
+                    "type": "linear",
+                    "varname": "L4"
+                },
+                {
+                    "from": "2.5",
+                    "samples": "1",
+                    "to": "2.5",
+                    "type": "linear",
+                    "varname": "L2"
+                },
+                {
+                    "from": "1.7",
+                    "samples": "1",
+                    "to": "1.7",
+                    "type": "linear",
+                    "varname": "hole_puncher1"
+                },
+                {
+                    "from": "0.8",
+                    "samples": "1",
+                    "to": "0.8",
+                    "type": "linear",
+                    "varname": "g_slot"
+                },
+                {
+                    "from": "25",
+                    "samples": "1",
+                    "to": "25",
+                    "type": "linear",
+                    "varname": "L1"
+                },
+                {
+                    "from": "21.2",
+                    "samples": "1",
+                    "to": "22",
+                    "type": "linear",
+                    "varname": "r_SRR"
+                },
+                {
+                    "index": 1
+                }
+            ]
+        },
+        "version": 1
+    }
+}

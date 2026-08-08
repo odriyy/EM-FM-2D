@@ -1,0 +1,219 @@
+// Number 3D OBJECTS:
+// ^^^^^^^^^^^^^^^^^^
+9
+
+// Obj3D_ID, MediaCode (0=Iso3D,1=LossyIso3D,2=PEC,3=Aniso3D,4=LossyAniso3D,5=SurfaceImp)
+// ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+0 0
+>> Material name:
+Vacuum
+
+1 0
+>> Material name:
+air_0
+
+2 1
+>> Material name:
+Folder1/PVC_flexible
+
+3 1
+>> Material name:
+PVC
+
+4 5
+>> Material name:
+Copper (annealed)
+
+5 5
+>> Material name:
+Copper (annealed)
+
+6 5
+>> Material name:
+Copper (annealed)
+
+7 5
+>> Material name:
+Copper (annealed)
+
+8 5
+>> Material name:
+Copper (annealed)
+
+// Number 2D OBJECTS:
+// ^^^^^^^^^^^^^^^^^^
+62
+
+// Obj2D_ID, BCCode (0=Reg,1=PEC,2=PMC,3=RHO,4=OHM,5=PORT,6=OPEN,7=EXPANDEDOPEN,8=PERIODIC,9=TANGENTIAL,10=NORMAL):
+// ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+0 0
+
+1 7
+
+2 7
+
+3 7
+
+4 7
+
+5 7
+
+6 7
+
+7 1
+
+8 1
+
+9 1
+
+10 0
+
+11 0
+
+12 3
+Copper (annealed)
+
+13 3
+Copper (annealed)
+
+14 3
+Copper (annealed)
+
+15 3
+Copper (annealed)
+
+16 3
+Copper (annealed)
+
+17 3
+Copper (annealed)
+
+18 3
+Copper (annealed)
+
+19 3
+Copper (annealed)
+
+20 3
+Copper (annealed)
+
+21 3
+Copper (annealed)
+
+22 3
+Copper (annealed)
+
+23 3
+Copper (annealed)
+
+24 3
+Copper (annealed)
+
+25 3
+Copper (annealed)
+
+26 3
+Copper (annealed)
+
+27 3
+Copper (annealed)
+
+28 3
+Copper (annealed)
+
+29 3
+Copper (annealed)
+
+30 3
+Copper (annealed)
+
+31 3
+Copper (annealed)
+
+32 3
+Copper (annealed)
+
+33 3
+Copper (annealed)
+
+34 3
+Copper (annealed)
+
+35 3
+Copper (annealed)
+
+36 3
+Copper (annealed)
+
+37 3
+Copper (annealed)
+
+38 0
+
+39 0
+
+40 3
+Copper (annealed)
+
+41 3
+Copper (annealed)
+
+42 0
+
+43 0
+
+44 3
+Copper (annealed)
+
+45 3
+Copper (annealed)
+
+46 3
+Copper (annealed)
+
+47 3
+Copper (annealed)
+
+48 3
+Copper (annealed)
+
+49 3
+Copper (annealed)
+
+50 3
+Copper (annealed)
+
+51 0
+
+52 3
+Copper (annealed)
+
+53 0
+
+54 0
+
+55 3
+Copper (annealed)
+
+56 0
+
+57 3
+Copper (annealed)
+
+58 0
+
+59 3
+Copper (annealed)
+
+60 0
+
+61 0
+
+// Number 1D OBJECTS:
+// ^^^^^^^^^^^^^^^^^^
+1
+
+// Obj1D_ID, BCCode (0=Reg,1=PEC,2=PMC,3=PORT,4=Lumped):
+// ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+0 0
+

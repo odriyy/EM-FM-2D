@@ -1,0 +1,3217 @@
+{
+    "date": "2026-07-21, 16:30:35, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 1,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 16:32:27, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 2,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 16:33:07, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 3,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 16:33:47, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 4,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 16:35:53, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 5,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 16:36:41, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 6,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 16:39:52, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 7,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 16:40:34, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 8,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 16:41:15, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 9,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 16:51:21, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 0,
+            "return_code": 3,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 16:51:35, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 0,
+            "return_code": 3,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 16:51:49, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 0,
+            "return_code": 3,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 16:52:02, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 0,
+            "return_code": 3,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 16:53:31, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 10,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 16:53:57, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 11,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 16:55:36, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 12,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 16:56:04, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 13,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 16:56:46, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 14,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 16:58:26, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 15,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 16:59:06, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 16,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 16:59:45, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 17,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 17:01:13, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 18,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 17:02:01, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 19,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 17:03:04, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 20,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 17:05:48, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 21,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 17:07:12, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 22,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 17:08:22, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 23,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 17:09:40, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 24,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 17:10:29, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 25,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 17:11:20, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 26,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 17:14:40, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 27,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 17:15:05, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 0,
+            "return_code": 3,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 17:16:07, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 28,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 17:16:59, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 29,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 17:18:09, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 30,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 17:18:52, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 31,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 17:19:32, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 32,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 17:21:20, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 33,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 17:22:01, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 34,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 17:22:50, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 35,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 17:23:27, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 36,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 17:24:47, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 37,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 17:25:37, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 38,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 17:26:55, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 39,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 17:27:38, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 40,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 17:28:20, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 41,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 17:29:40, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 42,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 17:30:23, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 43,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 17:31:09, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 44,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 17:32:01, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 45,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 17:35:06, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 46,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 17:36:05, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 47,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 17:37:05, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 48,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 17:37:52, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 49,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 17:39:05, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 50,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 17:39:48, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 51,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 17:40:34, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 52,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 17:53:52, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 53,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 17:54:31, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 54,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 18:01:06, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 55,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 18:01:58, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 56,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 18:02:43, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 57,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 18:07:24, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 58,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 18:08:41, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 59,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-21, 18:10:09, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 60,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-27, 23:33:58, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 61,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}{
+    "date": "2026-07-28, 17:15:09, Malay Peninsula Standard Time",
+    "solver_runs_and_tasks": {
+        "module_name": "parameter sweep",
+        "solver_run": {
+            "license_and_hardware_request": {
+                "in_use": true,
+                "license_type": "CST legacy token",
+                "mpi": {
+                    "consistency_check": true,
+                    "num_different_mpi_nodes": 0,
+                    "num_local_mpi_nodes": 0,
+                    "num_mpi_nodes": 0
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": 0,
+                "num_physical_cores": -1,
+                "num_threads": 1024
+            },
+            "opt_par_run_id": 62,
+            "return_code": 1,
+            "solver_hwacc_usage": {
+                "info": "gathered from solver run",
+                "mpi": {
+                    "consistency_check": false,
+                    "num_different_mpi_nodes": -1,
+                    "num_local_mpi_nodes": -1,
+                    "num_mpi_nodes": -1
+                },
+                "num_cpu_sockets": 1,
+                "num_dc_nodes": 0,
+                "num_gpus": -1,
+                "num_threads_or_physical_cores": 6
+            },
+            "solver_used": "SOLVER_HF_TET_FD",
+            "task_name": "solver run",
+            "time_info": {
+                "details": {
+                    "discretizer": 0,
+                    "solver": 0
+                },
+                "run_time": 0
+            }
+        }
+    },
+    "studio-version": "2024.5 Release from 2024-06-14 (change 1285309)",
+    "version": 1
+}

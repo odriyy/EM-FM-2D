@@ -1,0 +1,74 @@
+{
+    "parameter sweep": {
+        "options": {
+            "restore parameter values after run": "false",
+            "simulation type": "Frequency",
+            "skip existing combinations": "false",
+            "start active solver": "true"
+        },
+        "sequences": {
+            "Sequence 1": [
+                {
+                    "from": "2",
+                    "samples": "1",
+                    "to": "5",
+                    "type": "linear",
+                    "varname": "L2"
+                },
+                {
+                    "from": "2",
+                    "samples": "1",
+                    "to": "6",
+                    "type": "linear",
+                    "varname": "w_channel"
+                },
+                {
+                    "from": "0.8",
+                    "samples": "1",
+                    "to": "1.2",
+                    "type": "linear",
+                    "varname": "h_sub"
+                },
+                {
+                    "from": "24",
+                    "samples": "1",
+                    "to": "24.5",
+                    "type": "linear",
+                    "varname": "r_SRR"
+                },
+                {
+                    "from": "2",
+                    "samples": "1",
+                    "to": "2",
+                    "type": "linear",
+                    "varname": "g_slot"
+                },
+                {
+                    "from": "0.4",
+                    "samples": "1",
+                    "to": "0.4",
+                    "type": "linear",
+                    "varname": "spacing"
+                },
+                {
+                    "from": "15.5",
+                    "samples": "1",
+                    "to": "15",
+                    "type": "linear",
+                    "varname": "L4"
+                },
+                {
+                    "from": "2.5",
+                    "samples": "1",
+                    "to": "4",
+                    "type": "linear",
+                    "varname": "L3"
+                },
+                {
+                    "index": 1
+                }
+            ]
+        },
+        "version": 1
+    }
+}

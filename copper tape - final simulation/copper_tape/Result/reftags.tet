@@ -1,0 +1,35 @@
+refinementinfo
+
+progressstart 0
+progressstop 100
+progresstext "Port mesh enhancement"
+
+reftype edgesplit
+
+refine edges
+171 172
+172 173
+173 174
+174 175
+11 188
+188 189
+189 190
+190 191
+191 192
+12 192
+12 193
+ratios
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+
+forceimprovementnum 1
+maxthreads 6
