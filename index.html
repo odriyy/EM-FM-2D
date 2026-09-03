@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hydroponic EC Sensor | Engineering Portfolio</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <nav>
+            <div class="logo"><strong>EM FM 2D</strong></div>
+            <div class="nav-links">
+                <a href="https://odriyy.github.io/Projects/index.html#projects">Portfolio</a>
+                <a href="https://github.com/odriyy/EM-FM-2D" target="_blank">GitHub</a>
+            </div>
+        </nav>
+    </header>
+
+    <section class="container pt-nav project-header">
+        <a href="https://odriyy.github.io/Projects/index.html#projects" class="back-link">
+            <span>&larr;</span> Back to Portfolio
+        </a>
+
+        <h1>Hydroponic EC Sensor</h1>
+
+        <div class="tech-tags">
+            <span class="tag tag-highlight">Completed 2026</span>
+            <span class="tag">RF / Antenna Design</span>
+            <span class="tag">CST Simulation</span>
+            <span class="tag">PDMS / Ecoflex</span>
+            <span class="tag">Liquid Metal</span>
+            <span class="tag">Flexible Electronics</span>
+        </div>
+
+        <p class="text-grey" style="max-width: 800px; margin-bottom: 1.5rem;">
+            A flexible, non-invasive Electrical Conductivity (EC) sensor that wraps around a hydroponic pipe to detect
+            changes in nutrient solution concentration, using a bent split-ring resonator cast in liquid metal and
+            PDMS to enable continuous, contact-free monitoring.
+        </p>
+
+        <a href="https://github.com/odriyy/EM-FM-2D" target="_blank" class="btn-outline">
+            View on GitHub
+        </a>
+        <a href="media/2D FMEM Poster (1).pdf" target="_blank" class="btn-outline" style="margin-left: 0.75rem;">
+            View Poster
+        </a>
+        <a href="EM-FM 2D Project_Review 2_Group 1.pdf" target="_blank" class="btn-outline" style="margin-left: 0.75rem;">
+            View Project Review
+        </a>
+    </section>
+
+    <section class="container" style="padding-top: 2rem; padding-bottom: 0;">
+        <div class="hero-image-large">
+            <img src="photos/setup.jpg" alt="Hydroponic EC sensor test setup">
+        </div>
+
+        <div class="specs-container">
+            <div class="specs-title">Specifications</div>
+            <div class="specs-grid">
+                <div class="spec-item">
+                    <h4>Sensor Topology</h4>
+                    <p>Split Ring Resonator (SRR) with T-patch microstrip excitation</p>
+                </div>
+                <div class="spec-item">
+                    <h4>Sensing Medium</h4>
+                    <p>Injected liquid metal traces cast inside PDMS / Ecoflex layers</p>
+                </div>
+                <div class="spec-item">
+                    <h4>Mould Fabrication</h4>
+                    <p>SLA resin-printed moulds for precision small-gap features</p>
+                </div>
+                <div class="spec-item">
+                    <h4>Simulation</h4>
+                    <p>CST Studio, S1,1 return loss vs. resonant frequency</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="bg-black">
+        <div class="flex-split">
+            <div class="flex-content">
+                <h2>Sensing Nutrients Without Touching Them</h2>
+                <p class="text-grey" style="text-align: justify;">
+                    Hydroponic growers need to know when a nutrient solution's Electrical Conductivity (EC) drifts out
+                    of range, but existing probes are invasive, foul over time, and interrupt the flow they're meant
+                    to monitor. Our question: how might we create a non-invasive EC sensor to detect the change in
+                    soluble nutrients in hydroponics? The answer is a flexible sensor that wraps around the outside
+                    of the pipe itself &mdash; a split-ring resonator whose resonant frequency shifts as the EC of the
+                    fluid flowing past it changes, with no contact with the solution required.
+                </p>
+            </div>
+            <div class="flex-image">
+                <img src="photos/team1.jpg" alt="Team EM FM 2D at the SUTD exhibition">
+                <div class="image-caption">Team EMFM2D presenting the final sensor at the SUTD engineering exhibition.</div>
+            </div>
+        </div>
+    </section>
+
+    <section class="container" style="padding-top: 2rem; padding-bottom: 4rem;">
+        <div style="margin-bottom: 3rem;">
+            <h2 style="font-size: 2rem; margin-bottom: 1rem;">Split Ring Resonator (SRR) Topology</h2>
+        </div>
+
+        <div class="projects-grid">
+            <div class="project-card" style="background-color: transparent; border: none; padding: 0;">
+                <div class="step-number">01</div>
+                <h3 class="project-title" style="margin-top: 0; font-size: 1.25rem;">T-Patch Excitation</h3>
+                <p class="text-grey" style="font-size: 0.95rem; text-align: justify;">
+                    The T-patch is an excitation source that carries the RF current from the SMA port into the SRR, coupling energy into the ring.
+                </p>
+            </div>
+
+            <div class="project-card" style="background-color: transparent; border: none; padding: 0;">
+                <div class="step-number">02</div>
+                <h3 class="project-title" style="margin-top: 0; font-size: 1.25rem;">SRR Ring Resonance</h3>
+                <p class="text-grey" style="font-size: 0.95rem; text-align: justify;">
+                    The ring acts as an LC resonant circuit &mdash; the ring itself is the inductor and the split gap is the capacitor &mdash; coupling magnetically to the fluid it wraps around.
+                </p>
+            </div>
+
+            <div class="project-card" style="background-color: transparent; border: none; padding: 0;">
+                <div class="step-number">03</div>
+                <h3 class="project-title" style="margin-top: 0; font-size: 1.25rem;">Ground Plane &amp; PVC Tube</h3>
+                <p class="text-grey" style="font-size: 0.95rem; text-align: justify;">
+                    A ground plane backs the microstrip while the whole assembly wraps around a PVC tube carrying the hydroponic water flow, keeping the sensor entirely external to the fluid path.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <section class="bg-black">
+        <div class="container" style="padding-top: 4rem; padding-bottom: 4rem;">
+
+            <h2 style="text-align: center; margin-bottom: 3rem; font-size: 2.5rem;">Fabrication: SLA-Printed PDMS &amp; Ecoflex Moulds</h2>
+
+            <div style="display: flex; justify-content: center; margin-bottom: 4rem; gap: 2rem; flex-wrap: wrap;">
+                <div style="width: 100%; max-width: 450px; border-radius: 8px;">
+                    <img src="photos/moulds1.jpg" alt="PDMS and Ecoflex casts vs 3D printed moulds" style="width: 100%; height: auto; object-fit: contain; border-radius: 8px; border: 1px solid #333333;">
+                    <div class="image-caption">2nd cast (PDMS), 1st cast (Ecoflex), and the 3D-printed moulds used to shape them.</div>
+                </div>
+                <div style="width: 100%; max-width: 450px; border-radius: 8px;">
+                    <img src="photos/moulds2.jpg" alt="Iterations of resin-printed moulds and cured layers" style="width: 100%; height: auto; object-fit: contain; border-radius: 8px; border: 1px solid #333333;">
+                    <div class="image-caption">Successive mould and cast iterations refining gap precision.</div>
+                </div>
+            </div>
+
+            <div style="max-width: 900px; margin: 0 auto;">
+                <ul style="list-style-position: outside; margin-left: 1.5rem;">
+                    <li class="text-grey" style="margin-bottom: 1rem; text-align: justify;">
+                        <strong style="color: #ffffff;">Resin-Printed Moulds:</strong> Fabricated by SLA printer to minimize layer lines and accommodate precision for small gaps such as the SRR split and T-patch traces.
+                    </li>
+                    <li class="text-grey" style="margin-bottom: 1rem; text-align: justify;">
+                        <strong style="color: #ffffff;">Casting:</strong> PDMS or Ecoflex is poured into the moulds, degassed in a vacuum chamber to eliminate air bubbles, and cured &mdash; in an oven for PDMS.
+                    </li>
+                    <li class="text-grey" style="margin-bottom: 1rem; text-align: justify;">
+                        <strong style="color: #ffffff;">Layer Bonding:</strong> Two layers are bonded using uncured PDMS or Ecoflex as an adhesive, with an inlet and outlet then created for liquid metal injection.
+                    </li>
+                    <li class="text-grey" style="margin-bottom: 1rem; text-align: justify;">
+                        <strong style="color: #ffffff;">Liquid Metal Injection:</strong> Liquid metal is injected into the channel to form the conductive SRR ring and T-patch traces.
+                    </li>
+                    <li class="text-grey" style="text-align: justify;">
+                        <strong style="color: #ffffff;">Repeat &amp; Seal:</strong> The next surface is bonded, its own inlet and outlet created, and liquid metal injected again &mdash; repeating layer by layer until the final antenna, fully encapsulated in PDMS, is complete.
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <section class="container">
+        <div class="section-header" style="margin-bottom: 2rem;">
+            <h2>Results</h2>
+        </div>
+
+        <div style="max-width: 900px; margin: 0 auto 3rem; overflow-x: auto;">
+            <table style="width: 100%; border-collapse: collapse; font-size: 0.9rem;">
+                <thead>
+                    <tr style="border-bottom: 1px solid #333333;">
+                        <th style="text-align: left; padding: 0.75rem; color: #ffffff;">Condition</th>
+                        <th style="text-align: left; padding: 0.75rem; color: #ffffff;">EC (mS/cm)</th>
+                        <th style="text-align: left; padding: 0.75rem; color: #ffffff;">Resonant Frequency (GHz)</th>
+                        <th style="text-align: left; padding: 0.75rem; color: #ffffff;">S1,1 (dB)</th>
+                    </tr>
+                </thead>
+                <tbody class="text-grey">
+                    <tr style="border-bottom: 1px solid #222222;"><td style="padding: 0.6rem 0.75rem;">Simulated</td><td style="padding: 0.6rem 0.75rem;">No water</td><td style="padding: 0.6rem 0.75rem;">2.408</td><td style="padding: 0.6rem 0.75rem;">-20.24</td></tr>
+                    <tr style="border-bottom: 1px solid #222222;"><td style="padding: 0.6rem 0.75rem;">Simulated (no bending)</td><td style="padding: 0.6rem 0.75rem;">No water</td><td style="padding: 0.6rem 0.75rem;">2.096</td><td style="padding: 0.6rem 0.75rem;">-6.00</td></tr>
+                    <tr style="border-bottom: 1px solid #222222;"><td style="padding: 0.6rem 0.75rem;">Tested</td><td style="padding: 0.6rem 0.75rem;">No water</td><td style="padding: 0.6rem 0.75rem;">2.605</td><td style="padding: 0.6rem 0.75rem;">-21.60</td></tr>
+                    <tr style="border-bottom: 1px solid #222222;"><td style="padding: 0.6rem 0.75rem;">Tested</td><td style="padding: 0.6rem 0.75rem;">0.25</td><td style="padding: 0.6rem 0.75rem;">2.590</td><td style="padding: 0.6rem 0.75rem;">-18.30</td></tr>
+                    <tr style="border-bottom: 1px solid #222222;"><td style="padding: 0.6rem 0.75rem;">Tested</td><td style="padding: 0.6rem 0.75rem;">1.25</td><td style="padding: 0.6rem 0.75rem;">2.500</td><td style="padding: 0.6rem 0.75rem;">-10.57</td></tr>
+                    <tr style="border-bottom: 1px solid #222222;"><td style="padding: 0.6rem 0.75rem;">Tested (no bending)</td><td style="padding: 0.6rem 0.75rem;">No water</td><td style="padding: 0.6rem 0.75rem;">2.040</td><td style="padding: 0.6rem 0.75rem;">-17.48</td></tr>
+                    <tr style="border-bottom: 1px solid #222222;"><td style="padding: 0.6rem 0.75rem;">Tested (no bending)</td><td style="padding: 0.6rem 0.75rem;">0.25</td><td style="padding: 0.6rem 0.75rem;">2.033</td><td style="padding: 0.6rem 0.75rem;">-15.46</td></tr>
+                    <tr><td style="padding: 0.6rem 0.75rem;">Tested (no bending)</td><td style="padding: 0.6rem 0.75rem;">1.25</td><td style="padding: 0.6rem 0.75rem;">2.024</td><td style="padding: 0.6rem 0.75rem;">-10.28</td></tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div class="challenge-grid">
+            <div class="challenge-box">
+                <h3 style="margin-bottom: 0;">Bending vs. No Bending</h3>
+                <p class="text-grey" style="text-align: justify; margin-top: 1rem;">
+                    Bending the sensor around the pipe increases the change in resonant frequency (&Delta;f) compared to leaving it unbent, since bending gives the ring more contact with the pipe. Between EC 0.25 and 1.25 mS/cm, the bent sensor shifted &Delta;f = 2.590 &minus; 2.500 = 0.090 GHz, versus only &Delta;f = 2.033 &minus; 2.024 = 0.009 GHz unbent &mdash; a 10x greater sensitivity from bending.
+                </p>
+            </div>
+
+            <div class="challenge-box">
+                <h3 style="margin-bottom: 0;">Frequency Shift</h3>
+                <p class="text-grey" style="text-align: justify; margin-top: 1rem;">
+                    As calcium nitrate and water fill the pipe, the dielectric permittivity around the resonator increases. This slows the electromagnetic wave and compresses its wavelength, shifting the resonant frequency downward as EC rises.
+                </p>
+            </div>
+
+            <div class="challenge-box">
+                <h3 style="margin-bottom: 0;">Notch Degradation</h3>
+                <p class="text-grey" style="text-align: justify; margin-top: 1rem;">
+                    Higher EC means more ions in the nutrient solution. These ions oscillate under the high-frequency electric field, converting microwave energy into thermal loss. This degrades the resonator's Q factor, making the S1,1 dip shallower at higher EC.
+                </p>
+            </div>
+
+            <div class="challenge-box">
+                <h3 style="margin-bottom: 0;">Simulation vs. Bench Testing</h3>
+                <p class="text-grey" style="text-align: justify; margin-top: 1rem;">
+                    Simulated and tested resonant frequencies tracked closely for the bent, empty-pipe case (2.408 GHz vs 2.605 GHz), validating the CST model, while the unbent simulation's shallow -6.00 dB return loss showed why bending was needed for a usable notch depth on the bench.
+                </p>
+            </div>
+        </div>
+    </section>
+
+</body>
+</html>
